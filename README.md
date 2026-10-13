@@ -1,2 +1,9 @@
-# 93126_UMass_WorcesterCommons
-Construct UI
+output/
+__TEMP/
+**/output
+**/__TEMP
+ 
+.cse
+.DS_Store
+ 
+*.zip
