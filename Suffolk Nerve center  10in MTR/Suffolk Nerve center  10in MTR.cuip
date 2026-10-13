@@ -1,0 +1,35 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 10:42:38.970587-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 10:42:38.970577-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "Suffolk Nerve center  10in MTR"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.18.0"
+Id = "259a63d5-b7cb-46d9-a45a-8ee754fd70db"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
+DeviceResolutionIds = "G-L-4KMONIT-2560-1440"
+ipId = "03"
+ProjectSchemaVersion = "13"
+ContractIsStale = "false"
+

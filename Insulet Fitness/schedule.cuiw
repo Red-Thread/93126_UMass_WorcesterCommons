@@ -1,0 +1,108 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 12:04:41.675821-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 12:04:41.675818-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" id="iepytal6dx" devicesvisited="[&quot;TSW-760&quot;]" defaultwidth="1003px" defaultheight="730px" class="widget-container"><html-div componentname="Html-div_1" id="iqsc" devicesvisited="[&quot;TSW-760&quot;]" oldid="i8te"></html-div><html-div componentname="Html-div" id="i8te" devicesvisited="[&quot;TSW-760&quot;]"></html-div><ch5-subpage-reference-list orientation="vertical" columns="1" rows="1" centeritems="true" numberofitems="2" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="i4hx" componentname="Widget List" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" widgetid="we32836c3-0395-4339-8375-d406a03b922b">
+              </ch5-subpage-reference-list></div>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #wrapper { background-color: 0xffffff } #iepytal6dx { width: 900px; height: 730px; left: 0; top: 0; position: absolute } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #i4hx { width: auto; height: 631px; display: block; left: 5px; top: 73px; position: absolute; z-index: 1 } #i8te { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 895px; height: 305px; left: 1px; top: 38px; position: absolute; z-index: 2 } #iqsc { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 895px; height: 305px; left: 0px; top: 373px; position: absolute; z-index: 3 } }
+@media (orientation: landscape) and (max-width: 1263px) and (max-height: 741px), (orientation: landscape) and (max-width: 1261px) { #iepytal6dx { width: 900px; height: 730px; left: 0; top: 0; position: absolute } #i4hx { width: auto; height: 631px; display: block; left: 5px; top: 73px; position: absolute } #i8te { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 895px; height: 305px; left: 1px; top: 38px; position: absolute } #iqsc { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 895px; height: 305px; left: 0px; top: 373px; position: absolute } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "schedule"
+PageMode = "absolute"
+Id = "fed9d7cd-1801-4a6d-b045-8c2c2d13aca0"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_1"
+id = "iqsc"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "i9xk"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div"
+id = "i8te"
+devicesVisited = "[\"TSW-760\"]"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "vertical"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "2"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i4hx"
+componentName = "Widget List"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+widgetid = "we32836c3-0395-4339-8375-d406a03b922b"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "iepytal6dx"
+devicesVisited = "[\"TSW-760\"]"
+defaultWidth = "1003px"
+defaultHeight = "730px"
+

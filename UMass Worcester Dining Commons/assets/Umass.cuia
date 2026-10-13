@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 15:11:05.674587-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 15:11:05.67458-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.901.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "ad1cb397-46a3-4e21-b1bd-106b2782bb96"
+Name = "Umass"
+SourceUri = "Umass.png"
+AspectRatio = "1.7"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

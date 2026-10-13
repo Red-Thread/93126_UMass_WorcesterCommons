@@ -1,0 +1,35 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 12:04:41.662036-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 12:13:02.665398-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+Name = "Insulet Fitness"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.18.0"
+ComponentKey = "UiEditor"
+Id = "c45923b9-8cf3-4300-840f-88a70c6f2b8a"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
+DeviceResolutionIds = "D-L-TSW0760-1262-0740"
+ipId = "03"
+ProjectSchemaVersion = "13"
+ContractIsStale = "true"
+

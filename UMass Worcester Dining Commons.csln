@@ -1,0 +1,25 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.1501.15.0",
+    "_created": "2026-08-31T12:55:53.060256-04:00",
+    "_lastModifiedByAppHost": "2.1501.15.0",
+    "_minimumAppHost": "2.901.0",
+    "_modified": "2026-10-09T17:05:50.417437-04:00"
+  },
+  "_solution": {
+    "_name": "UMass Worcester Dining Commons",
+    "_projects": [
+      {
+        "_name": "Insulet Fitness",
+        "_filename": "../InsActon_Fit_93350/Insulet Fitness/Insulet Fitness.cuip",
+        "_datetime": "2026-10-09T21:05:50.403612Z"
+      },
+      {
+        "_name": "UMass Worcester Dining Commons",
+        "_filename": "UMass Worcester Dining Commons/UMass Worcester Dining Commons.cuip",
+        "_datetime": "2026-08-31T16:55:53.008854Z"
+      }
+    ]
+  }
+}

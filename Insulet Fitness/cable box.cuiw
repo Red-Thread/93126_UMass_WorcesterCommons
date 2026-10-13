@@ -1,0 +1,294 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 12:04:41.677152-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 12:04:41.677151-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" id="ioa7s6r6jx" devicesvisited="[&quot;TSW-760&quot;]" defaultwidth="1003px" defaultheight="730px" class="widget-container"><html-div componentname="Html-div" id="i8qa" devicesvisited="[&quot;TSW-760&quot;]"></html-div><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i39g" componentname="Formatted-Text_5" ccid_activefont="'Roboto'" ccid_label="Music" labelinnerhtml="Music" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="i571"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i571" componentname="Formatted-Text_4" ccid_activefont="'Roboto'" ccid_label="Telivision" labelinnerhtml="Telivision" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="iokc"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ifql" componentname="Formatted-Text_3" ccid_activefont="'Roboto'" ccid_label="Channel #" labelinnerhtml="Channel #" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="inuk"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="inuk" componentname="Formatted-Text_2" ccid_activefont="'Roboto'" ccid_label="Channel #" labelinnerhtml="Channel #" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="i467"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i467" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="Station" labelinnerhtml="Station" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="iokc"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iokc" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Channels" labelinnerhtml="Channels" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-subpage-reference-list orientation="vertical" columns="1" rows="1" centeritems="true" numberofitems="7" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="i7ut" componentname="tv channels wl" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" oldid="i2xu" widgetid="wafe99600-9c57-4e13-abed-fe55e00b13e7"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="vertical" columns="1" rows="1" centeritems="true" numberofitems="5" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="i2xu" componentname="Music stations wl" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" widgetid="wafe99600-9c57-4e13-abed-fe55e00b13e7">
+              </ch5-subpage-reference-list><html-div componentname="Html-div_2" id="in1o" devicesvisited="[&quot;TSW-760&quot;]" oldid="iwe7"></html-div><html-div componentname="Html-div_1" id="iwe7" devicesvisited="[&quot;TSW-760&quot;]"></html-div></div>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #wrapper { background-color: 0xffffff } #ioa7s6r6jx { width: 900px; height: 730px; left: 0; top: 0; position: absolute } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #i2xu { width: auto; height: 466px; display: block; left: 101px; top: 147px; position: absolute; z-index: 3 } #i7ut { width: auto; height: 547px; display: block; left: 550px; top: 163px; position: absolute; listSpacing_item-spacing: 0; --ch5-subpage-reference-list--item-padding: 0; z-index: 4 } #iokc { display: block; left: 547px; top: 92px; position: absolute; width: 106px; height: 48px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--font-size: 20px; Label_font-size: 20px; custom-normal-font-size: 20px; --ch5-text--width: 106px; z-index: 5 } #iokc .ch5-text :not(i):not(svg) { font-family: "Roboto" } #iokc .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i467 { display: block; left: 108px; top: 92px; position: absolute; width: 106px; height: 48px; --ch5-text--font-size: 20px; Label_font-size: 20px; custom-normal-font-size: 20px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--width: 106px; z-index: 6 } #i467 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i467 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #inuk { display: block; left: 248px; top: 92px; position: absolute; width: 106px; height: 48px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--font-size: 20px; Label_font-size: 20px; custom-normal-font-size: 20px; --ch5-text--width: 106px; z-index: 7 } #inuk .ch5-text :not(i):not(svg) { font-family: "Roboto" } #inuk .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #ifql { display: block; left: 690px; top: 92px; position: absolute; width: 106px; height: 48px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--font-size: 20px; Label_font-size: 20px; custom-normal-font-size: 20px; --ch5-text--width: 106px; z-index: 8 } #ifql .ch5-text :not(i):not(svg) { font-family: "Roboto" } #ifql .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i571 { display: block; left: 601px; top: 20px; position: absolute; width: 150px; height: 48px; --ch5-text--font-weight: 700; Label_font-weight: 700; text-shadow: 1px 1px 1px #a49d9d; --ch5-text--font-size: 25px; Label_font-size: 25px; custom-normal-font-size: 25px; --ch5-text--letter-spacing: 1px; Label_letter-spacing: 1px; z-index: 9 } #i571 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i571 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i39g { display: block; left: 140px; top: 20px; position: absolute; width: 150px; height: 48px; --ch5-text--font-weight: 700; Label_font-weight: 700; text-shadow: 1px 1px 1px #a49d9d; --ch5-text--font-size: 25px; Label_font-size: 25px; custom-normal-font-size: 25px; --ch5-text--letter-spacing: 1px; Label_letter-spacing: 1px; z-index: 10 } #i39g .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i39g .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i8qa { display: block; background-color: #4f5358; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 2px; height: 700px; left: 449px; top: 15px; position: absolute; z-index: 11 } #iwe7 { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 365px; height: 629px; left: 48px; top: 85px; position: absolute; border-top-left-radius: 5px; border-radius: 5px 5px 5px 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; z-index: 1 } #in1o { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 365px; height: 638px; left: 494px; top: 76px; position: absolute; border-top-left-radius: 5px; border-radius: 5px 5px 5px 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; z-index: 2 } }
+@media (orientation: landscape) and (max-width: 1263px) and (max-height: 741px), (orientation: landscape) and (max-width: 1261px) { #ioa7s6r6jx { width: 900px; height: 730px; left: 0; top: 0; position: absolute } #i2xu { width: auto; height: 466px; display: block; left: 101px; top: 147px; position: absolute } #i7ut { left: 550px; top: 146px; position: absolute; width: auto; height: 564px; listSpacing_item-spacing: 0; --ch5-subpage-reference-list--item-padding: 0 } #iokc { display: block; left: 547px; top: 92px; position: absolute; width: 106px; height: 48px; Label_color: #000000; --ch5-text--font-color: #000000; Label_font-size: 20px; --ch5-text--font-size: 20px; --ch5-text--width: 106px } #i467 { left: 108px; top: 92px; position: absolute; width: 106px; height: 48px; Label_font-size: 20px; --ch5-text--font-size: 20px; Label_color: #000000; --ch5-text--font-color: #000000; --ch5-text--width: 106px } #inuk { left: 248px; top: 92px; position: absolute; width: 106px; height: 48px; Label_color: #000000; --ch5-text--font-color: #000000; Label_font-size: 20px; --ch5-text--font-size: 20px; --ch5-text--width: 106px } #ifql { left: 690px; top: 92px; position: absolute; width: 106px; height: 48px; Label_color: #000000; --ch5-text--font-color: #000000; Label_font-size: 20px; --ch5-text--font-size: 20px; --ch5-text--width: 106px } #i571 { left: 601px; top: 20px; position: absolute; width: 150px; height: 48px; Label_font-weight: 700; --ch5-text--font-weight: 700; text-shadow: 1px 1px 1px #a49d9d; Label_font-size: 25px; --ch5-text--font-size: 25px; Label_letter-spacing: 1px; --ch5-text--letter-spacing: 1px } #i39g { left: 140px; top: 20px; position: absolute; width: 150px; height: 48px; Label_font-weight: 700; --ch5-text--font-weight: 700; text-shadow: 1px 1px 1px #a49d9d; Label_font-size: 25px; --ch5-text--font-size: 25px; Label_letter-spacing: 1px; --ch5-text--letter-spacing: 1px } #i8qa { display: block; background-color: #4f5358; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 2px; height: 700px; left: 449px; top: 15px; position: absolute } #iwe7 { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 365px; height: 629px; left: 48px; top: 85px; position: absolute; border-top-left-radius: 5px; border-radius: 5px 5px 5px 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px } #in1o { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 2px; border-color: #1B4B7C; width: 365px; height: 638px; left: 494px; top: 76px; position: absolute; border-top-left-radius: 5px; border-radius: 5px 5px 5px 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "cable box"
+PageMode = "absolute"
+Id = "97378dab-59a0-40a8-ad76-4025392caa37"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div"
+id = "i8qa"
+devicesVisited = "[\"TSW-760\"]"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i39g"
+componentName = "Formatted-Text_5"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Music"
+labelinnerhtml = "Music"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "in5wiek8g7bqv"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i571"
+componentName = "Formatted-Text_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Telivision"
+labelinnerhtml = "Telivision"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "inaz"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ifql"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Channel #"
+labelinnerhtml = "Channel #"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "izmrfdiurh"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "inuk"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Channel #"
+labelinnerhtml = "Channel #"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "ikhxyynect"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i467"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Station"
+labelinnerhtml = "Station"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "inaz"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iokc"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Channels"
+labelinnerhtml = "Channels"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "vertical"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "7"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i7ut"
+componentName = "tv channels wl"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "iaqi"
+widgetid = "wafe99600-9c57-4e13-abed-fe55e00b13e7"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "vertical"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "5"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i2xu"
+componentName = "Music stations wl"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+widgetid = "wafe99600-9c57-4e13-abed-fe55e00b13e7"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_2"
+id = "in1o"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "ifwrz"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_1"
+id = "iwe7"
+devicesVisited = "[\"TSW-760\"]"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "ioa7s6r6jx"
+devicesVisited = "[\"TSW-760\"]"
+defaultWidth = "1003px"
+defaultHeight = "730px"
+

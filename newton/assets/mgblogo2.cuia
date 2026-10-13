@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:57:39.732477-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:57:39.732475-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.901.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "30ec5b29-3080-435f-b589-221bd81b4ed7"
+Name = "mgblogo2"
+SourceUri = "mgblogo2.png"
+AspectRatio = "2"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

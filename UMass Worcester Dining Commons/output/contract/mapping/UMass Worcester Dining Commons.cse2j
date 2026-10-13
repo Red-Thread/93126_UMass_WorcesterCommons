@@ -1,0 +1,897 @@
+{
+  "name": "UMass Worcester Dining Commons",
+  "timestamp": "2026-10-13T18:44:24.162304+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "states": {
+      "boolean": {
+        "1": {
+          "1": "Page1.audiosettings.Visibility_fb",
+          "2": "Page1.CameraSettings.Visibility_fb",
+          "4": "Page1.audiosettings.Selected",
+          "5": "Page1.CameraSettings.Selected",
+          "6": "Page1.pgmmute.Selected",
+          "7": "Page1.powerbtn.Selected",
+          "8": "Page1.settings.Selected"
+        },
+        "13": {
+          "1": "Page1.zones.Items[0].ZonesCONTRACT.Zone.Visibility_fb",
+          "2": "Page1.zones.Items[0].ZonesCONTRACT.Floor.Visibility_fb",
+          "3": "Page1.zones.Items[1].ZonesCONTRACT.Zone.Visibility_fb",
+          "4": "Page1.zones.Items[1].ZonesCONTRACT.Floor.Visibility_fb",
+          "5": "Page1.zones.Items[2].ZonesCONTRACT.Zone.Visibility_fb",
+          "6": "Page1.zones.Items[2].ZonesCONTRACT.Floor.Visibility_fb",
+          "7": "Page1.zones.Items[3].ZonesCONTRACT.Zone.Visibility_fb",
+          "8": "Page1.zones.Items[3].ZonesCONTRACT.Floor.Visibility_fb",
+          "9": "Page1.zones.Items[4].ZonesCONTRACT.Zone.Visibility_fb",
+          "10": "Page1.zones.Items[4].ZonesCONTRACT.Floor.Visibility_fb",
+          "11": "Page1.zones.Items[5].ZonesCONTRACT.Zone.Visibility_fb",
+          "12": "Page1.zones.Items[5].ZonesCONTRACT.Floor.Visibility_fb",
+          "13": "Page1.zones.Items[6].ZonesCONTRACT.Zone.Visibility_fb",
+          "14": "Page1.zones.Items[6].ZonesCONTRACT.Floor.Visibility_fb",
+          "15": "Page1.zones.Items[7].ZonesCONTRACT.Zone.Visibility_fb",
+          "16": "Page1.zones.Items[7].ZonesCONTRACT.Floor.Visibility_fb",
+          "17": "Page1.zones.Items[8].ZonesCONTRACT.Zone.Visibility_fb",
+          "18": "Page1.zones.Items[8].ZonesCONTRACT.Floor.Visibility_fb",
+          "19": "Page1.zones.Items[9].ZonesCONTRACT.Zone.Visibility_fb",
+          "20": "Page1.zones.Items[9].ZonesCONTRACT.Floor.Visibility_fb",
+          "21": "Page1.zones.Items[10].ZonesCONTRACT.Zone.Visibility_fb",
+          "22": "Page1.zones.Items[10].ZonesCONTRACT.Floor.Visibility_fb",
+          "23": "Page1.zones.Items[11].ZonesCONTRACT.Zone.Visibility_fb",
+          "24": "Page1.zones.Items[11].ZonesCONTRACT.Floor.Visibility_fb",
+          "25": "Page1.zones.Items[12].ZonesCONTRACT.Zone.Visibility_fb",
+          "26": "Page1.zones.Items[12].ZonesCONTRACT.Floor.Visibility_fb",
+          "27": "Page1.zones.Items[13].ZonesCONTRACT.Zone.Visibility_fb",
+          "28": "Page1.zones.Items[13].ZonesCONTRACT.Floor.Visibility_fb",
+          "29": "Page1.zones.Items[14].ZonesCONTRACT.Zone.Visibility_fb",
+          "30": "Page1.zones.Items[14].ZonesCONTRACT.Floor.Visibility_fb",
+          "31": "Page1.zones.Items[15].ZonesCONTRACT.Zone.Visibility_fb",
+          "32": "Page1.zones.Items[15].ZonesCONTRACT.Floor.Visibility_fb",
+          "33": "Page1.zones.Items[16].ZonesCONTRACT.Zone.Visibility_fb",
+          "34": "Page1.zones.Items[16].ZonesCONTRACT.Floor.Visibility_fb",
+          "35": "Page1.zones.Items[17].ZonesCONTRACT.Zone.Visibility_fb",
+          "36": "Page1.zones.Items[17].ZonesCONTRACT.Floor.Visibility_fb",
+          "37": "Page1.zones.Items[18].ZonesCONTRACT.Zone.Visibility_fb",
+          "38": "Page1.zones.Items[18].ZonesCONTRACT.Floor.Visibility_fb",
+          "39": "Page1.zones.Items[19].ZonesCONTRACT.Zone.Visibility_fb",
+          "40": "Page1.zones.Items[19].ZonesCONTRACT.Floor.Visibility_fb",
+          "641": "Page1.zones.Items[0].ZonesCONTRACT.Zone.Selected",
+          "642": "Page1.zones.Items[1].ZonesCONTRACT.Zone.Selected",
+          "643": "Page1.zones.Items[2].ZonesCONTRACT.Zone.Selected",
+          "644": "Page1.zones.Items[3].ZonesCONTRACT.Zone.Selected",
+          "645": "Page1.zones.Items[4].ZonesCONTRACT.Zone.Selected",
+          "646": "Page1.zones.Items[5].ZonesCONTRACT.Zone.Selected",
+          "647": "Page1.zones.Items[6].ZonesCONTRACT.Zone.Selected",
+          "648": "Page1.zones.Items[7].ZonesCONTRACT.Zone.Selected",
+          "649": "Page1.zones.Items[8].ZonesCONTRACT.Zone.Selected",
+          "650": "Page1.zones.Items[9].ZonesCONTRACT.Zone.Selected",
+          "651": "Page1.zones.Items[10].ZonesCONTRACT.Zone.Selected",
+          "652": "Page1.zones.Items[11].ZonesCONTRACT.Zone.Selected",
+          "653": "Page1.zones.Items[12].ZonesCONTRACT.Zone.Selected",
+          "654": "Page1.zones.Items[13].ZonesCONTRACT.Zone.Selected",
+          "655": "Page1.zones.Items[14].ZonesCONTRACT.Zone.Selected",
+          "656": "Page1.zones.Items[15].ZonesCONTRACT.Zone.Selected",
+          "657": "Page1.zones.Items[16].ZonesCONTRACT.Zone.Selected",
+          "658": "Page1.zones.Items[17].ZonesCONTRACT.Zone.Selected",
+          "659": "Page1.zones.Items[18].ZonesCONTRACT.Zone.Selected",
+          "660": "Page1.zones.Items[19].ZonesCONTRACT.Zone.Selected"
+        },
+        "14": {
+          "1": "Page1.sub04_singledisplay.Visibility_fb"
+        },
+        "15": {
+          "1": "Page1.sub04_singledisplay.videosources.List_Item1_Visible",
+          "2": "Page1.sub04_singledisplay.videosources.List_Item2_Visible",
+          "3": "Page1.sub04_singledisplay.videosources.List_Item3_Visible",
+          "4": "Page1.sub04_singledisplay.videosources.List_Item4_Visible",
+          "5": "Page1.sub04_singledisplay.videosources.List_Item5_Visible",
+          "6": "Page1.sub04_singledisplay.videosources.List_Item6_Visible",
+          "7": "Page1.sub04_singledisplay.videosources.List_Item7_Visible",
+          "8": "Page1.sub04_singledisplay.videosources.List_Item8_Visible",
+          "9": "Page1.sub04_singledisplay.videosources.List_Item9_Visible",
+          "611": "Page1.sub04_singledisplay.videosources.Items[0].sourceCONTRACT.Button.Selected",
+          "612": "Page1.sub04_singledisplay.videosources.Items[1].sourceCONTRACT.Button.Selected",
+          "613": "Page1.sub04_singledisplay.videosources.Items[2].sourceCONTRACT.Button.Selected",
+          "614": "Page1.sub04_singledisplay.videosources.Items[3].sourceCONTRACT.Button.Selected",
+          "615": "Page1.sub04_singledisplay.videosources.Items[4].sourceCONTRACT.Button.Selected",
+          "616": "Page1.sub04_singledisplay.videosources.Items[5].sourceCONTRACT.Button.Selected",
+          "617": "Page1.sub04_singledisplay.videosources.Items[6].sourceCONTRACT.Button.Selected",
+          "618": "Page1.sub04_singledisplay.videosources.Items[7].sourceCONTRACT.Button.Selected",
+          "619": "Page1.sub04_singledisplay.videosources.Items[8].sourceCONTRACT.Button.Selected"
+        },
+        "16": {
+          "1001": "Page1.sub04_singledisplay.Displaypower.Button1ItemSelected",
+          "1002": "Page1.sub04_singledisplay.Displaypower.Button2ItemSelected",
+          "1501": "Page1.sub04_singledisplay.Displaypower.Button1Visible",
+          "1502": "Page1.sub04_singledisplay.Displaypower.Button2Visible"
+        },
+        "17": {
+          "1": "Page1.sub04_singledisplay.audsrcs.List_Item1_Visible",
+          "2": "Page1.sub04_singledisplay.audsrcs.List_Item2_Visible",
+          "3": "Page1.sub04_singledisplay.audsrcs.List_Item3_Visible",
+          "4": "Page1.sub04_singledisplay.audsrcs.List_Item4_Visible",
+          "5": "Page1.sub04_singledisplay.audsrcs.List_Item5_Visible",
+          "6": "Page1.sub04_singledisplay.audsrcs.List_Item6_Visible",
+          "7": "Page1.sub04_singledisplay.audsrcs.List_Item7_Visible",
+          "8": "Page1.sub04_singledisplay.audsrcs.List_Item8_Visible",
+          "9": "Page1.sub04_singledisplay.audsrcs.List_Item9_Visible",
+          "611": "Page1.sub04_singledisplay.audsrcs.Items[0].sourceCONTRACT.Button.Selected",
+          "612": "Page1.sub04_singledisplay.audsrcs.Items[1].sourceCONTRACT.Button.Selected",
+          "613": "Page1.sub04_singledisplay.audsrcs.Items[2].sourceCONTRACT.Button.Selected",
+          "614": "Page1.sub04_singledisplay.audsrcs.Items[3].sourceCONTRACT.Button.Selected",
+          "615": "Page1.sub04_singledisplay.audsrcs.Items[4].sourceCONTRACT.Button.Selected",
+          "616": "Page1.sub04_singledisplay.audsrcs.Items[5].sourceCONTRACT.Button.Selected",
+          "617": "Page1.sub04_singledisplay.audsrcs.Items[6].sourceCONTRACT.Button.Selected",
+          "618": "Page1.sub04_singledisplay.audsrcs.Items[7].sourceCONTRACT.Button.Selected",
+          "619": "Page1.sub04_singledisplay.audsrcs.Items[8].sourceCONTRACT.Button.Selected"
+        },
+        "18": {
+          "1": "Page1.sub03_shutdown.Visibility_fb",
+          "3": "Page1.sub03_shutdown.cancel.Selected",
+          "4": "Page1.sub03_shutdown.confirm.Selected"
+        },
+        "19": {
+          "1": "Page1.sub02_settings.Visibility_fb",
+          "3": "Page1.sub02_settings.Button_1.Selected",
+          "4": "Page1.sub02_settings.Button_2.Selected",
+          "5": "Page1.sub02_settings.Eventdisablebtn.Selected",
+          "6": "Page1.sub02_settings.timeentrybtn.Selected"
+        },
+        "20": {
+          "1201": "Page1.sub02_settings.WidgetList.Items[0].checkboxCONTRACT.checkbox_day.Selected",
+          "1202": "Page1.sub02_settings.WidgetList.Items[1].checkboxCONTRACT.checkbox_day.Selected",
+          "1203": "Page1.sub02_settings.WidgetList.Items[2].checkboxCONTRACT.checkbox_day.Selected",
+          "1204": "Page1.sub02_settings.WidgetList.Items[3].checkboxCONTRACT.checkbox_day.Selected",
+          "1205": "Page1.sub02_settings.WidgetList.Items[4].checkboxCONTRACT.checkbox_day.Selected",
+          "1206": "Page1.sub02_settings.WidgetList.Items[5].checkboxCONTRACT.checkbox_day.Selected",
+          "1207": "Page1.sub02_settings.WidgetList.Items[6].checkboxCONTRACT.checkbox_day.Selected"
+        },
+        "21": {
+          "1201": "Page1.sub02_settings.WidgetList_1.Items[0].checkboxCONTRACT.checkbox_day.Selected",
+          "1202": "Page1.sub02_settings.WidgetList_1.Items[1].checkboxCONTRACT.checkbox_day.Selected",
+          "1203": "Page1.sub02_settings.WidgetList_1.Items[2].checkboxCONTRACT.checkbox_day.Selected",
+          "1204": "Page1.sub02_settings.WidgetList_1.Items[3].checkboxCONTRACT.checkbox_day.Selected",
+          "1205": "Page1.sub02_settings.WidgetList_1.Items[4].checkboxCONTRACT.checkbox_day.Selected",
+          "1206": "Page1.sub02_settings.WidgetList_1.Items[5].checkboxCONTRACT.checkbox_day.Selected",
+          "1207": "Page1.sub02_settings.WidgetList_1.Items[6].checkboxCONTRACT.checkbox_day.Selected"
+        },
+        "22": {
+          "1": "Page1.sub01_Mics.Visibility_fb"
+        },
+        "23": {
+          "1": "Page1.sub01_Mics.WidgetList.List_Item1_Visible",
+          "2": "Page1.sub01_Mics.WidgetList.List_Item2_Visible",
+          "3": "Page1.sub01_Mics.WidgetList.List_Item3_Visible",
+          "4": "Page1.sub01_Mics.WidgetList.List_Item4_Visible",
+          "5": "Page1.sub01_Mics.WidgetList.List_Item5_Visible",
+          "607": "Page1.sub01_Mics.WidgetList.Items[0].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "608": "Page1.sub01_Mics.WidgetList.Items[1].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "609": "Page1.sub01_Mics.WidgetList.Items[2].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "610": "Page1.sub01_Mics.WidgetList.Items[3].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "611": "Page1.sub01_Mics.WidgetList.Items[4].mic_slidersCONTRACT.MicMutebtn1.Selected"
+        },
+        "24": {
+          "1": "Page1.sub05_moredisplays.Visibility_fb"
+        },
+        "25": {
+          "1": "Page1.sub05_moredisplays.audsrcs.List_Item1_Visible",
+          "2": "Page1.sub05_moredisplays.audsrcs.List_Item2_Visible",
+          "3": "Page1.sub05_moredisplays.audsrcs.List_Item3_Visible",
+          "4": "Page1.sub05_moredisplays.audsrcs.List_Item4_Visible",
+          "5": "Page1.sub05_moredisplays.audsrcs.List_Item5_Visible",
+          "6": "Page1.sub05_moredisplays.audsrcs.List_Item6_Visible",
+          "7": "Page1.sub05_moredisplays.audsrcs.List_Item7_Visible",
+          "8": "Page1.sub05_moredisplays.audsrcs.List_Item8_Visible",
+          "9": "Page1.sub05_moredisplays.audsrcs.List_Item9_Visible",
+          "611": "Page1.sub05_moredisplays.audsrcs.Items[0].sourceCONTRACT.Button.Selected",
+          "612": "Page1.sub05_moredisplays.audsrcs.Items[1].sourceCONTRACT.Button.Selected",
+          "613": "Page1.sub05_moredisplays.audsrcs.Items[2].sourceCONTRACT.Button.Selected",
+          "614": "Page1.sub05_moredisplays.audsrcs.Items[3].sourceCONTRACT.Button.Selected",
+          "615": "Page1.sub05_moredisplays.audsrcs.Items[4].sourceCONTRACT.Button.Selected",
+          "616": "Page1.sub05_moredisplays.audsrcs.Items[5].sourceCONTRACT.Button.Selected",
+          "617": "Page1.sub05_moredisplays.audsrcs.Items[6].sourceCONTRACT.Button.Selected",
+          "618": "Page1.sub05_moredisplays.audsrcs.Items[7].sourceCONTRACT.Button.Selected",
+          "619": "Page1.sub05_moredisplays.audsrcs.Items[8].sourceCONTRACT.Button.Selected"
+        },
+        "30": {
+          "1": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.Src1.Visibility_fb",
+          "2": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src2.Visibility_fb",
+          "3": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src3.Visibility_fb",
+          "4": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.Src1.Visibility_fb",
+          "5": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src2.Visibility_fb",
+          "6": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src3.Visibility_fb",
+          "7": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.Src1.Visibility_fb",
+          "8": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src2.Visibility_fb",
+          "9": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src3.Visibility_fb",
+          "10": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.Src1.Visibility_fb",
+          "11": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src2.Visibility_fb",
+          "12": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src3.Visibility_fb",
+          "13": "Page1.sub05_moredisplays.Displaycontrols.List_Item1_Visible",
+          "14": "Page1.sub05_moredisplays.Displaycontrols.List_Item2_Visible",
+          "15": "Page1.sub05_moredisplays.Displaycontrols.List_Item3_Visible",
+          "16": "Page1.sub05_moredisplays.Displaycontrols.List_Item4_Visible",
+          "617": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.Src1.Selected",
+          "618": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src2.Selected",
+          "619": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src3.Selected",
+          "620": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.Src1.Selected",
+          "621": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src2.Selected",
+          "622": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src3.Selected",
+          "623": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.Src1.Selected",
+          "624": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src2.Selected",
+          "625": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src3.Selected",
+          "626": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.Src1.Selected",
+          "627": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src2.Selected",
+          "628": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src3.Selected"
+        },
+        "27": {
+          "1": "Page1.sub06_Cameras.saving.Visibility_fb",
+          "2": "Page1.sub06_Cameras.Visibility_fb",
+          "4": "Page1.sub06_Cameras.ZoomIn.Selected",
+          "5": "Page1.sub06_Cameras.ZoomOut.Selected"
+        },
+        "28": {
+          "1001": "Page1.sub06_Cameras.campresets.Button1ItemSelected",
+          "1002": "Page1.sub06_Cameras.campresets.Button2ItemSelected",
+          "1003": "Page1.sub06_Cameras.campresets.Button3ItemSelected"
+        },
+        "31": {
+          "1": "Page1.Welcomewidget.Visibility_fb",
+          "3": "Page1.Welcomewidget.welcomebtn.Selected"
+        }
+      },
+      "numeric": {
+        "1": {
+          "4": "Page1.pgmfdr.LowerTouchfb"
+        },
+        "23": {
+          "1801": "Page1.sub01_Mics.WidgetList.Items[0].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1802": "Page1.sub01_Mics.WidgetList.Items[1].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1803": "Page1.sub01_Mics.WidgetList.Items[2].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1804": "Page1.sub01_Mics.WidgetList.Items[3].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1805": "Page1.sub01_Mics.WidgetList.Items[4].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb"
+        }
+      },
+      "string": {
+        "13": {
+          "1": "Page1.zones.Items[0].ZonesCONTRACT.Floor.Indirect",
+          "2": "Page1.zones.Items[0].ZonesCONTRACT.Zone.IndirectText",
+          "3": "Page1.zones.Items[1].ZonesCONTRACT.Floor.Indirect",
+          "4": "Page1.zones.Items[1].ZonesCONTRACT.Zone.IndirectText",
+          "5": "Page1.zones.Items[2].ZonesCONTRACT.Floor.Indirect",
+          "6": "Page1.zones.Items[2].ZonesCONTRACT.Zone.IndirectText",
+          "7": "Page1.zones.Items[3].ZonesCONTRACT.Floor.Indirect",
+          "8": "Page1.zones.Items[3].ZonesCONTRACT.Zone.IndirectText",
+          "9": "Page1.zones.Items[4].ZonesCONTRACT.Floor.Indirect",
+          "10": "Page1.zones.Items[4].ZonesCONTRACT.Zone.IndirectText",
+          "11": "Page1.zones.Items[5].ZonesCONTRACT.Floor.Indirect",
+          "12": "Page1.zones.Items[5].ZonesCONTRACT.Zone.IndirectText",
+          "13": "Page1.zones.Items[6].ZonesCONTRACT.Floor.Indirect",
+          "14": "Page1.zones.Items[6].ZonesCONTRACT.Zone.IndirectText",
+          "15": "Page1.zones.Items[7].ZonesCONTRACT.Floor.Indirect",
+          "16": "Page1.zones.Items[7].ZonesCONTRACT.Zone.IndirectText",
+          "17": "Page1.zones.Items[8].ZonesCONTRACT.Floor.Indirect",
+          "18": "Page1.zones.Items[8].ZonesCONTRACT.Zone.IndirectText",
+          "19": "Page1.zones.Items[9].ZonesCONTRACT.Floor.Indirect",
+          "20": "Page1.zones.Items[9].ZonesCONTRACT.Zone.IndirectText",
+          "21": "Page1.zones.Items[10].ZonesCONTRACT.Floor.Indirect",
+          "22": "Page1.zones.Items[10].ZonesCONTRACT.Zone.IndirectText",
+          "23": "Page1.zones.Items[11].ZonesCONTRACT.Floor.Indirect",
+          "24": "Page1.zones.Items[11].ZonesCONTRACT.Zone.IndirectText",
+          "25": "Page1.zones.Items[12].ZonesCONTRACT.Floor.Indirect",
+          "26": "Page1.zones.Items[12].ZonesCONTRACT.Zone.IndirectText",
+          "27": "Page1.zones.Items[13].ZonesCONTRACT.Floor.Indirect",
+          "28": "Page1.zones.Items[13].ZonesCONTRACT.Zone.IndirectText",
+          "29": "Page1.zones.Items[14].ZonesCONTRACT.Floor.Indirect",
+          "30": "Page1.zones.Items[14].ZonesCONTRACT.Zone.IndirectText",
+          "31": "Page1.zones.Items[15].ZonesCONTRACT.Floor.Indirect",
+          "32": "Page1.zones.Items[15].ZonesCONTRACT.Zone.IndirectText",
+          "33": "Page1.zones.Items[16].ZonesCONTRACT.Floor.Indirect",
+          "34": "Page1.zones.Items[16].ZonesCONTRACT.Zone.IndirectText",
+          "35": "Page1.zones.Items[17].ZonesCONTRACT.Floor.Indirect",
+          "36": "Page1.zones.Items[17].ZonesCONTRACT.Zone.IndirectText",
+          "37": "Page1.zones.Items[18].ZonesCONTRACT.Floor.Indirect",
+          "38": "Page1.zones.Items[18].ZonesCONTRACT.Zone.IndirectText",
+          "39": "Page1.zones.Items[19].ZonesCONTRACT.Floor.Indirect",
+          "40": "Page1.zones.Items[19].ZonesCONTRACT.Zone.IndirectText"
+        },
+        "14": {
+          "1": "Page1.sub04_singledisplay.FormattedText.Indirect"
+        },
+        "15": {
+          "1": "Page1.sub04_singledisplay.videosources.Items[0].sourceCONTRACT.Button.IndirectText",
+          "2": "Page1.sub04_singledisplay.videosources.Items[1].sourceCONTRACT.Button.IndirectText",
+          "3": "Page1.sub04_singledisplay.videosources.Items[2].sourceCONTRACT.Button.IndirectText",
+          "4": "Page1.sub04_singledisplay.videosources.Items[3].sourceCONTRACT.Button.IndirectText",
+          "5": "Page1.sub04_singledisplay.videosources.Items[4].sourceCONTRACT.Button.IndirectText",
+          "6": "Page1.sub04_singledisplay.videosources.Items[5].sourceCONTRACT.Button.IndirectText",
+          "7": "Page1.sub04_singledisplay.videosources.Items[6].sourceCONTRACT.Button.IndirectText",
+          "8": "Page1.sub04_singledisplay.videosources.Items[7].sourceCONTRACT.Button.IndirectText",
+          "9": "Page1.sub04_singledisplay.videosources.Items[8].sourceCONTRACT.Button.IndirectText",
+          "10": "Page1.sub04_singledisplay.videosources.Items[0].sourceCONTRACT.Button.Icon",
+          "11": "Page1.sub04_singledisplay.videosources.Items[1].sourceCONTRACT.Button.Icon",
+          "12": "Page1.sub04_singledisplay.videosources.Items[2].sourceCONTRACT.Button.Icon",
+          "13": "Page1.sub04_singledisplay.videosources.Items[3].sourceCONTRACT.Button.Icon",
+          "14": "Page1.sub04_singledisplay.videosources.Items[4].sourceCONTRACT.Button.Icon",
+          "15": "Page1.sub04_singledisplay.videosources.Items[5].sourceCONTRACT.Button.Icon",
+          "16": "Page1.sub04_singledisplay.videosources.Items[6].sourceCONTRACT.Button.Icon",
+          "17": "Page1.sub04_singledisplay.videosources.Items[7].sourceCONTRACT.Button.Icon",
+          "18": "Page1.sub04_singledisplay.videosources.Items[8].sourceCONTRACT.Button.Icon"
+        },
+        "16": {
+          "1": "Page1.sub04_singledisplay.Displaypower.Button1Text",
+          "2": "Page1.sub04_singledisplay.Displaypower.Button2Text"
+        },
+        "17": {
+          "1": "Page1.sub04_singledisplay.audsrcs.Items[0].sourceCONTRACT.Button.IndirectText",
+          "2": "Page1.sub04_singledisplay.audsrcs.Items[1].sourceCONTRACT.Button.IndirectText",
+          "3": "Page1.sub04_singledisplay.audsrcs.Items[2].sourceCONTRACT.Button.IndirectText",
+          "4": "Page1.sub04_singledisplay.audsrcs.Items[3].sourceCONTRACT.Button.IndirectText",
+          "5": "Page1.sub04_singledisplay.audsrcs.Items[4].sourceCONTRACT.Button.IndirectText",
+          "6": "Page1.sub04_singledisplay.audsrcs.Items[5].sourceCONTRACT.Button.IndirectText",
+          "7": "Page1.sub04_singledisplay.audsrcs.Items[6].sourceCONTRACT.Button.IndirectText",
+          "8": "Page1.sub04_singledisplay.audsrcs.Items[7].sourceCONTRACT.Button.IndirectText",
+          "9": "Page1.sub04_singledisplay.audsrcs.Items[8].sourceCONTRACT.Button.IndirectText",
+          "10": "Page1.sub04_singledisplay.audsrcs.Items[0].sourceCONTRACT.Button.Icon",
+          "11": "Page1.sub04_singledisplay.audsrcs.Items[1].sourceCONTRACT.Button.Icon",
+          "12": "Page1.sub04_singledisplay.audsrcs.Items[2].sourceCONTRACT.Button.Icon",
+          "13": "Page1.sub04_singledisplay.audsrcs.Items[3].sourceCONTRACT.Button.Icon",
+          "14": "Page1.sub04_singledisplay.audsrcs.Items[4].sourceCONTRACT.Button.Icon",
+          "15": "Page1.sub04_singledisplay.audsrcs.Items[5].sourceCONTRACT.Button.Icon",
+          "16": "Page1.sub04_singledisplay.audsrcs.Items[6].sourceCONTRACT.Button.Icon",
+          "17": "Page1.sub04_singledisplay.audsrcs.Items[7].sourceCONTRACT.Button.Icon",
+          "18": "Page1.sub04_singledisplay.audsrcs.Items[8].sourceCONTRACT.Button.Icon"
+        },
+        "18": {
+          "1": "Page1.sub03_shutdown.remtime.IndirectRichText"
+        },
+        "19": {
+          "1": "Page1.sub02_settings.Textinput.IndirectText",
+          "2": "Page1.sub02_settings.timeentrytextinput.IndirectText",
+          "3": "Page1.sub02_settings.FormattedText_7.Indirect"
+        },
+        "20": {
+          "1": "Page1.sub02_settings.WidgetList.Items[0].checkboxCONTRACT.checkbox_day.IndirectText",
+          "2": "Page1.sub02_settings.WidgetList.Items[1].checkboxCONTRACT.checkbox_day.IndirectText",
+          "3": "Page1.sub02_settings.WidgetList.Items[2].checkboxCONTRACT.checkbox_day.IndirectText",
+          "4": "Page1.sub02_settings.WidgetList.Items[3].checkboxCONTRACT.checkbox_day.IndirectText",
+          "5": "Page1.sub02_settings.WidgetList.Items[4].checkboxCONTRACT.checkbox_day.IndirectText",
+          "6": "Page1.sub02_settings.WidgetList.Items[5].checkboxCONTRACT.checkbox_day.IndirectText",
+          "7": "Page1.sub02_settings.WidgetList.Items[6].checkboxCONTRACT.checkbox_day.IndirectText"
+        },
+        "21": {
+          "1": "Page1.sub02_settings.WidgetList_1.Items[0].checkboxCONTRACT.checkbox_day.IndirectText",
+          "2": "Page1.sub02_settings.WidgetList_1.Items[1].checkboxCONTRACT.checkbox_day.IndirectText",
+          "3": "Page1.sub02_settings.WidgetList_1.Items[2].checkboxCONTRACT.checkbox_day.IndirectText",
+          "4": "Page1.sub02_settings.WidgetList_1.Items[3].checkboxCONTRACT.checkbox_day.IndirectText",
+          "5": "Page1.sub02_settings.WidgetList_1.Items[4].checkboxCONTRACT.checkbox_day.IndirectText",
+          "6": "Page1.sub02_settings.WidgetList_1.Items[5].checkboxCONTRACT.checkbox_day.IndirectText",
+          "7": "Page1.sub02_settings.WidgetList_1.Items[6].checkboxCONTRACT.checkbox_day.IndirectText"
+        },
+        "22": {
+          "1": "Page1.sub01_Mics.FormattedText.Indirect"
+        },
+        "23": {
+          "1": "Page1.sub01_Mics.WidgetList.Items[0].mic_slidersCONTRACT.Mictext.Indirect",
+          "2": "Page1.sub01_Mics.WidgetList.Items[1].mic_slidersCONTRACT.Mictext.Indirect",
+          "3": "Page1.sub01_Mics.WidgetList.Items[2].mic_slidersCONTRACT.Mictext.Indirect",
+          "4": "Page1.sub01_Mics.WidgetList.Items[3].mic_slidersCONTRACT.Mictext.Indirect",
+          "5": "Page1.sub01_Mics.WidgetList.Items[4].mic_slidersCONTRACT.Mictext.Indirect"
+        },
+        "24": {
+          "1": "Page1.sub05_moredisplays.FormattedText.Indirect"
+        },
+        "25": {
+          "1": "Page1.sub05_moredisplays.audsrcs.Items[0].sourceCONTRACT.Button.IndirectText",
+          "2": "Page1.sub05_moredisplays.audsrcs.Items[1].sourceCONTRACT.Button.IndirectText",
+          "3": "Page1.sub05_moredisplays.audsrcs.Items[2].sourceCONTRACT.Button.IndirectText",
+          "4": "Page1.sub05_moredisplays.audsrcs.Items[3].sourceCONTRACT.Button.IndirectText",
+          "5": "Page1.sub05_moredisplays.audsrcs.Items[4].sourceCONTRACT.Button.IndirectText",
+          "6": "Page1.sub05_moredisplays.audsrcs.Items[5].sourceCONTRACT.Button.IndirectText",
+          "7": "Page1.sub05_moredisplays.audsrcs.Items[6].sourceCONTRACT.Button.IndirectText",
+          "8": "Page1.sub05_moredisplays.audsrcs.Items[7].sourceCONTRACT.Button.IndirectText",
+          "9": "Page1.sub05_moredisplays.audsrcs.Items[8].sourceCONTRACT.Button.IndirectText",
+          "10": "Page1.sub05_moredisplays.audsrcs.Items[0].sourceCONTRACT.Button.Icon",
+          "11": "Page1.sub05_moredisplays.audsrcs.Items[1].sourceCONTRACT.Button.Icon",
+          "12": "Page1.sub05_moredisplays.audsrcs.Items[2].sourceCONTRACT.Button.Icon",
+          "13": "Page1.sub05_moredisplays.audsrcs.Items[3].sourceCONTRACT.Button.Icon",
+          "14": "Page1.sub05_moredisplays.audsrcs.Items[4].sourceCONTRACT.Button.Icon",
+          "15": "Page1.sub05_moredisplays.audsrcs.Items[5].sourceCONTRACT.Button.Icon",
+          "16": "Page1.sub05_moredisplays.audsrcs.Items[6].sourceCONTRACT.Button.Icon",
+          "17": "Page1.sub05_moredisplays.audsrcs.Items[7].sourceCONTRACT.Button.Icon",
+          "18": "Page1.sub05_moredisplays.audsrcs.Items[8].sourceCONTRACT.Button.Icon"
+        },
+        "30": {
+          "1": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.Src1.IndirectText",
+          "2": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src2.IndirectText",
+          "3": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src3.IndirectText",
+          "4": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.Src1.IndirectText",
+          "5": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src2.IndirectText",
+          "6": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src3.IndirectText",
+          "7": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.Src1.IndirectText",
+          "8": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src2.IndirectText",
+          "9": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src3.IndirectText",
+          "10": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.Src1.IndirectText",
+          "11": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src2.IndirectText",
+          "12": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src3.IndirectText",
+          "13": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.Src1.Icon",
+          "14": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src2.Icon",
+          "15": "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src3.Icon",
+          "16": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.Src1.Icon",
+          "17": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src2.Icon",
+          "18": "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src3.Icon",
+          "19": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.Src1.Icon",
+          "20": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src2.Icon",
+          "21": "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src3.Icon",
+          "22": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.Src1.Icon",
+          "23": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src2.Icon",
+          "24": "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src3.Icon"
+        },
+        "27": {
+          "1": "Page1.sub06_Cameras.FormattedText.Indirect"
+        }
+      }
+    },
+    "events": {
+      "boolean": {
+        "Page1.audiosettings.Press": {
+          "joinId": 2,
+          "smartObjectId": 1
+        },
+        "Page1.CameraSettings.Press": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "Page1.pgmmute.Press": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Page1.powerbtn.Press": {
+          "joinId": 5,
+          "smartObjectId": 1
+        },
+        "Page1.settings.Press": {
+          "joinId": 6,
+          "smartObjectId": 1
+        },
+        "Page1.zones.Items[0].ZonesCONTRACT.Zone.Press": {
+          "joinId": 601,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[1].ZonesCONTRACT.Zone.Press": {
+          "joinId": 602,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[2].ZonesCONTRACT.Zone.Press": {
+          "joinId": 603,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[3].ZonesCONTRACT.Zone.Press": {
+          "joinId": 604,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[4].ZonesCONTRACT.Zone.Press": {
+          "joinId": 605,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[5].ZonesCONTRACT.Zone.Press": {
+          "joinId": 606,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[6].ZonesCONTRACT.Zone.Press": {
+          "joinId": 607,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[7].ZonesCONTRACT.Zone.Press": {
+          "joinId": 608,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[8].ZonesCONTRACT.Zone.Press": {
+          "joinId": 609,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[9].ZonesCONTRACT.Zone.Press": {
+          "joinId": 610,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[10].ZonesCONTRACT.Zone.Press": {
+          "joinId": 611,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[11].ZonesCONTRACT.Zone.Press": {
+          "joinId": 612,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[12].ZonesCONTRACT.Zone.Press": {
+          "joinId": 613,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[13].ZonesCONTRACT.Zone.Press": {
+          "joinId": 614,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[14].ZonesCONTRACT.Zone.Press": {
+          "joinId": 615,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[15].ZonesCONTRACT.Zone.Press": {
+          "joinId": 616,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[16].ZonesCONTRACT.Zone.Press": {
+          "joinId": 617,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[17].ZonesCONTRACT.Zone.Press": {
+          "joinId": 618,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[18].ZonesCONTRACT.Zone.Press": {
+          "joinId": 619,
+          "smartObjectId": 13
+        },
+        "Page1.zones.Items[19].ZonesCONTRACT.Zone.Press": {
+          "joinId": 620,
+          "smartObjectId": 13
+        },
+        "Page1.sub04_singledisplay.videosources.Items[0].sourceCONTRACT.Button.Press": {
+          "joinId": 602,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[1].sourceCONTRACT.Button.Press": {
+          "joinId": 603,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[2].sourceCONTRACT.Button.Press": {
+          "joinId": 604,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[3].sourceCONTRACT.Button.Press": {
+          "joinId": 605,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[4].sourceCONTRACT.Button.Press": {
+          "joinId": 606,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[5].sourceCONTRACT.Button.Press": {
+          "joinId": 607,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[6].sourceCONTRACT.Button.Press": {
+          "joinId": 608,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[7].sourceCONTRACT.Button.Press": {
+          "joinId": 609,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.videosources.Items[8].sourceCONTRACT.Button.Press": {
+          "joinId": 610,
+          "smartObjectId": 15
+        },
+        "Page1.sub04_singledisplay.Displaypower.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 16
+        },
+        "Page1.sub04_singledisplay.Displaypower.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 16
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[0].sourceCONTRACT.Button.Press": {
+          "joinId": 602,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[1].sourceCONTRACT.Button.Press": {
+          "joinId": 603,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[2].sourceCONTRACT.Button.Press": {
+          "joinId": 604,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[3].sourceCONTRACT.Button.Press": {
+          "joinId": 605,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[4].sourceCONTRACT.Button.Press": {
+          "joinId": 606,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[5].sourceCONTRACT.Button.Press": {
+          "joinId": 607,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[6].sourceCONTRACT.Button.Press": {
+          "joinId": 608,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[7].sourceCONTRACT.Button.Press": {
+          "joinId": 609,
+          "smartObjectId": 17
+        },
+        "Page1.sub04_singledisplay.audsrcs.Items[8].sourceCONTRACT.Button.Press": {
+          "joinId": 610,
+          "smartObjectId": 17
+        },
+        "Page1.sub03_shutdown.cancel.Press": {
+          "joinId": 2,
+          "smartObjectId": 18
+        },
+        "Page1.sub03_shutdown.confirm.Press": {
+          "joinId": 3,
+          "smartObjectId": 18
+        },
+        "Page1.sub02_settings.Button_1.Press": {
+          "joinId": 2,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.Button_2.Press": {
+          "joinId": 3,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.Eventdisablebtn.Press": {
+          "joinId": 4,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.homebtn.Press": {
+          "joinId": 5,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.timeentrybtn.Press": {
+          "joinId": 6,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.WidgetList.Items[0].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1201,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[1].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1202,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[2].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1203,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[3].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1204,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[4].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1205,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[5].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1206,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList.Items[6].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1207,
+          "smartObjectId": 20
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[0].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1201,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[1].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1202,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[2].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1203,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[3].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1204,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[4].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1205,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[5].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1206,
+          "smartObjectId": 21
+        },
+        "Page1.sub02_settings.WidgetList_1.Items[6].checkboxCONTRACT.checkbox_day.Press": {
+          "joinId": 1207,
+          "smartObjectId": 21
+        },
+        "Page1.sub01_Mics.homebtn.Press": {
+          "joinId": 2,
+          "smartObjectId": 22
+        },
+        "Page1.sub01_Mics.WidgetList.Items[0].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 602,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[1].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 603,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[2].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 604,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[3].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 605,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[4].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 606,
+          "smartObjectId": 23
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[0].sourceCONTRACT.Button.Press": {
+          "joinId": 602,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[1].sourceCONTRACT.Button.Press": {
+          "joinId": 603,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[2].sourceCONTRACT.Button.Press": {
+          "joinId": 604,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[3].sourceCONTRACT.Button.Press": {
+          "joinId": 605,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[4].sourceCONTRACT.Button.Press": {
+          "joinId": 606,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[5].sourceCONTRACT.Button.Press": {
+          "joinId": 607,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[6].sourceCONTRACT.Button.Press": {
+          "joinId": 608,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[7].sourceCONTRACT.Button.Press": {
+          "joinId": 609,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.audsrcs.Items[8].sourceCONTRACT.Button.Press": {
+          "joinId": 610,
+          "smartObjectId": 25
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.Src1.Press": {
+          "joinId": 601,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src2.Press": {
+          "joinId": 602,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[0].displaysCONTRACT.src3.Press": {
+          "joinId": 603,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.Src1.Press": {
+          "joinId": 604,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src2.Press": {
+          "joinId": 605,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[1].displaysCONTRACT.src3.Press": {
+          "joinId": 606,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.Src1.Press": {
+          "joinId": 607,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src2.Press": {
+          "joinId": 608,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[2].displaysCONTRACT.src3.Press": {
+          "joinId": 609,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.Src1.Press": {
+          "joinId": 610,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src2.Press": {
+          "joinId": 611,
+          "smartObjectId": 30
+        },
+        "Page1.sub05_moredisplays.Displaycontrols.Items[3].displaysCONTRACT.src3.Press": {
+          "joinId": 612,
+          "smartObjectId": 30
+        },
+        "Page1.sub06_Cameras.homebtn.Press": {
+          "joinId": 2,
+          "smartObjectId": 27
+        },
+        "Page1.sub06_Cameras.ZoomIn.Press": {
+          "joinId": 3,
+          "smartObjectId": 27
+        },
+        "Page1.sub06_Cameras.ZoomOut.Press": {
+          "joinId": 4,
+          "smartObjectId": 27
+        },
+        "Page1.sub06_Cameras.campresets.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 28
+        },
+        "Page1.sub06_Cameras.campresets.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 28
+        },
+        "Page1.sub06_Cameras.campresets.Button3ItemPress": {
+          "joinId": 1003,
+          "smartObjectId": 28
+        },
+        "Page1.sub06_Cameras.Dpad.Up": {
+          "joinId": 3,
+          "smartObjectId": 29
+        },
+        "Page1.sub06_Cameras.Dpad.Down": {
+          "joinId": 4,
+          "smartObjectId": 29
+        },
+        "Page1.sub06_Cameras.Dpad.Left": {
+          "joinId": 5,
+          "smartObjectId": 29
+        },
+        "Page1.sub06_Cameras.Dpad.Right": {
+          "joinId": 6,
+          "smartObjectId": 29
+        },
+        "Page1.sub06_Cameras.Dpad.Center": {
+          "joinId": 7,
+          "smartObjectId": 29
+        },
+        "Page1.Welcomewidget.welcomebtn.Press": {
+          "joinId": 2,
+          "smartObjectId": 31
+        }
+      },
+      "numeric": {
+        "Page1.pgmfdr.LowerTouch": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Page1.sub01_Mics.WidgetList.Items[0].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1801,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[1].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1802,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[2].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1803,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[3].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1804,
+          "smartObjectId": 23
+        },
+        "Page1.sub01_Mics.WidgetList.Items[4].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1805,
+          "smartObjectId": 23
+        }
+      },
+      "string": {
+        "Page1.sub02_settings.Textinput.OutputText": {
+          "joinId": 1,
+          "smartObjectId": 19
+        },
+        "Page1.sub02_settings.timeentrytextinput.OutputText": {
+          "joinId": 2,
+          "smartObjectId": 19
+        }
+      }
+    }
+  }
+}

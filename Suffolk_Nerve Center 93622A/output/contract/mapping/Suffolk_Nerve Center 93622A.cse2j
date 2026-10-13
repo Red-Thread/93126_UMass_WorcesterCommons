@@ -1,0 +1,225 @@
+{
+  "name": "Suffolk_Nerve Center 93622A",
+  "timestamp": "2026-09-18T14:46:50.816885+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "states": {
+      "boolean": {
+        "1": {
+          "1": "Main.Savingtext.Visibility_fb",
+          "2": "Main.tilt_down.Enable",
+          "3": "Main.tilt_left.Enable",
+          "4": "Main.tilt_right.Enable",
+          "5": "Main.tilt_up.Enable",
+          "6": "Main.Zoom_.Enable",
+          "7": "Main.zoom.Enable",
+          "8": "Main.Audio.Selected",
+          "9": "Main.Main.Selected",
+          "10": "Main.Monitor_on.Selected",
+          "11": "Main.Monitoroff.Selected",
+          "12": "Main.tilt_down.Selected",
+          "13": "Main.tilt_left.Selected",
+          "14": "Main.tilt_right.Selected",
+          "15": "Main.tilt_up.Selected",
+          "16": "Main.Zoom_.Selected",
+          "17": "Main.zoom.Selected"
+        },
+        "2": {
+          "1": "Main.Audiopage.Visibility_fb",
+          "3": "Main.Audiopage.CeilingMicsMute.Selected",
+          "4": "Main.Audiopage.programmute.Selected"
+        },
+        "3": {
+          "1201": "Main.Audiopage.Miclist_WL.Items[0].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "1202": "Main.Audiopage.Miclist_WL.Items[1].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "1203": "Main.Audiopage.Miclist_WL.Items[2].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "1204": "Main.Audiopage.Miclist_WL.Items[3].mic_slidersCONTRACT.MicMutebtn1.Selected",
+          "1205": "Main.Audiopage.Miclist_WL.Items[4].mic_slidersCONTRACT.MicMutebtn1.Selected"
+        },
+        "4": {
+          "1001": "Main.Presets.Button1ItemSelected",
+          "1002": "Main.Presets.Button2ItemSelected",
+          "1003": "Main.Presets.Button3ItemSelected",
+          "1004": "Main.Presets.Button4ItemSelected",
+          "1005": "Main.Presets.Button5ItemSelected",
+          "2001": "Main.Presets.Button1Enabled",
+          "2002": "Main.Presets.Button2Enabled",
+          "2003": "Main.Presets.Button3Enabled",
+          "2004": "Main.Presets.Button4Enabled",
+          "2005": "Main.Presets.Button5Enabled"
+        },
+        "5": {
+          "1001": "Main.Cam_Select.Button1ItemSelected",
+          "1002": "Main.Cam_Select.Button2ItemSelected",
+          "1003": "Main.Cam_Select.Button3ItemSelected"
+        },
+        "6": {
+          "1001": "Main.camera_track.Button1ItemSelected",
+          "1002": "Main.camera_track.Button2ItemSelected"
+        }
+      },
+      "numeric": {
+        "2": {
+          "4": "Main.Audiopage.Programslider.LowerTouchfb"
+        },
+        "3": {
+          "1801": "Main.Audiopage.Miclist_WL.Items[0].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1802": "Main.Audiopage.Miclist_WL.Items[1].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1803": "Main.Audiopage.Miclist_WL.Items[2].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1804": "Main.Audiopage.Miclist_WL.Items[3].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb",
+          "1805": "Main.Audiopage.Miclist_WL.Items[4].mic_slidersCONTRACT.Slider_mic_1.LowerTouchfb"
+        }
+      },
+      "string": {
+        "3": {
+          "1": "Main.Audiopage.Miclist_WL.Items[0].mic_slidersCONTRACT.Mictext.Indirect",
+          "2": "Main.Audiopage.Miclist_WL.Items[1].mic_slidersCONTRACT.Mictext.Indirect",
+          "3": "Main.Audiopage.Miclist_WL.Items[2].mic_slidersCONTRACT.Mictext.Indirect",
+          "4": "Main.Audiopage.Miclist_WL.Items[3].mic_slidersCONTRACT.Mictext.Indirect",
+          "5": "Main.Audiopage.Miclist_WL.Items[4].mic_slidersCONTRACT.Mictext.Indirect"
+        }
+      }
+    },
+    "events": {
+      "boolean": {
+        "Main.Audio.Press": {
+          "joinId": 1,
+          "smartObjectId": 1
+        },
+        "Main.Main.Press": {
+          "joinId": 2,
+          "smartObjectId": 1
+        },
+        "Main.Monitor_on.Press": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "Main.Monitoroff.Press": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Main.tilt_down.Press": {
+          "joinId": 5,
+          "smartObjectId": 1
+        },
+        "Main.tilt_left.Press": {
+          "joinId": 6,
+          "smartObjectId": 1
+        },
+        "Main.tilt_right.Press": {
+          "joinId": 7,
+          "smartObjectId": 1
+        },
+        "Main.tilt_up.Press": {
+          "joinId": 8,
+          "smartObjectId": 1
+        },
+        "Main.Zoom_.Press": {
+          "joinId": 9,
+          "smartObjectId": 1
+        },
+        "Main.zoom.Press": {
+          "joinId": 10,
+          "smartObjectId": 1
+        },
+        "Main.Audiopage.CeilingMicsMute.Press": {
+          "joinId": 2,
+          "smartObjectId": 2
+        },
+        "Main.Audiopage.programmute.Press": {
+          "joinId": 3,
+          "smartObjectId": 2
+        },
+        "Main.Audiopage.Miclist_WL.Items[0].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 1201,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[1].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 1202,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[2].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 1203,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[3].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 1204,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[4].mic_slidersCONTRACT.MicMutebtn1.Press": {
+          "joinId": 1205,
+          "smartObjectId": 3
+        },
+        "Main.Presets.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 4
+        },
+        "Main.Presets.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 4
+        },
+        "Main.Presets.Button3ItemPress": {
+          "joinId": 1003,
+          "smartObjectId": 4
+        },
+        "Main.Presets.Button4ItemPress": {
+          "joinId": 1004,
+          "smartObjectId": 4
+        },
+        "Main.Presets.Button5ItemPress": {
+          "joinId": 1005,
+          "smartObjectId": 4
+        },
+        "Main.Cam_Select.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 5
+        },
+        "Main.Cam_Select.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 5
+        },
+        "Main.Cam_Select.Button3ItemPress": {
+          "joinId": 1003,
+          "smartObjectId": 5
+        },
+        "Main.camera_track.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 6
+        },
+        "Main.camera_track.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 6
+        }
+      },
+      "numeric": {
+        "Main.Audiopage.Programslider.LowerTouch": {
+          "joinId": 4,
+          "smartObjectId": 2
+        },
+        "Main.Audiopage.Miclist_WL.Items[0].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1801,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[1].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1802,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[2].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1803,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[3].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1804,
+          "smartObjectId": 3
+        },
+        "Main.Audiopage.Miclist_WL.Items[4].mic_slidersCONTRACT.Slider_mic_1.LowerTouch": {
+          "joinId": 1805,
+          "smartObjectId": 3
+        }
+      },
+      "string": {}
+    }
+  }
+}

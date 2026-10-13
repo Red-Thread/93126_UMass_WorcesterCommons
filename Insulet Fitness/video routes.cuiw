@@ -1,0 +1,216 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 12:04:41.683153-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 12:04:41.683146-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" id="igu3p8zm4o" devicesvisited="[&quot;TSW-760&quot;]" defaultwidth="1003px" defaultheight="730px" class="widget-container"><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="2" centeritems="true" numberofitems="7" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="inlz" componentname="Destination WL" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" oldid="iu8w" widgetid="w90c3f1a0-4a08-48b1-8442-06e8f86f928e"></ch5-subpage-reference-list><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="2" centeritems="true" numberofitems="7" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="iu8w" componentname="Sources WL" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" widgetid="w90c3f1a0-4a08-48b1-8442-06e8f86f928e">
+              </ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iud9" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="Sources" labelinnerhtml="Sources" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="i7l1th9xiapbh"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i3uy" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Cable Boxes" labelinnerhtml="Cable Boxes" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" oldid="i8xi1">
+              </ch5-text><html-div componentname="Html-div_1" id="izsy" devicesvisited="[&quot;TSW-760&quot;]" oldid="i3siykttxl" componentwasresized="true"></html-div><html-div componentname="Html-div" id="iv7o" devicesvisited="[&quot;TSW-760&quot;]" oldid="i1gglv7zju"></html-div><html-div componentname="Html-div_2" id="i9zq" devicesvisited="[&quot;TSW-760&quot;]"></html-div><html-div componentname="Html-div_3" id="ie40" devicesvisited="[&quot;TSW-760&quot;]" oldid="i9zq"></html-div></div>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #wrapper { background-color: 0xffffff } #igu3p8zm4o { width: 900px; height: 730px; left: 0; top: 0; position: absolute } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #i3uy { display: block; left: 59px; top: 400px; position: absolute; width: 150px; height: 48px; --ch5-text--font-size: 25px; Label_font-size: 25px; custom-normal-font-size: 25px; text-shadow: 1px 1px 1px #ffffff; z-index: 5 } #iud9 { display: block; left: 59px; top: 30px; position: absolute; width: 150px; height: 48px; --ch5-text--font-size: 25px; Label_font-size: 25px; custom-normal-font-size: 25px; text-shadow: 1px 1px 1px #ffffff; z-index: 6 } #iv7o { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 3px; border-color: #000000; width: 823px; height: 340px; left: 38px; top: 10px; position: absolute; border-top-left-radius: 10px; border-radius: 10px 10px 10px 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; z-index: 3 } #izsy { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 3px; border-color: #000000; width: 823px; height: 340px; left: 38px; top: 380px; position: absolute; border-top-left-radius: 10px; border-radius: 10px 10px 10px 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; z-index: 4 } #i3uy .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i3uy .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #iud9 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #iud9 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #iu8w { width: 770px; height: auto; display: block; left: 65px; top: 106px; position: absolute; listSpacing_item-spacing: 10px; --ch5-subpage-reference-list--item-padding: 10px; z-index: 7 } #i9zq { display: block; background-color: #999999; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 819px; height: 89px; left: 39px; top: 11px; position: absolute; border-bottom-right-radius: 5px; border-radius: 5px 5px 5px 5px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px; z-index: 2 } #ie40 { display: block; background-color: #999999; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 819px; height: 89px; left: 41px; top: 383px; position: absolute; border-bottom-right-radius: 5px; border-radius: 5px 5px 5px 5px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px; z-index: 1 } #inlz { width: 770px; height: auto; display: block; left: 65px; top: 473px; position: absolute; listSpacing_item-spacing: 10px; --ch5-subpage-reference-list--item-padding: 10px; z-index: 8 } }
+@media (orientation: landscape) and (max-width: 1263px) and (max-height: 741px), (orientation: landscape) and (max-width: 1261px) { #igu3p8zm4o { width: 900px; height: 730px; left: 0; top: 0; position: absolute } #i3uy { display: block; left: 59px; top: 400px; position: absolute; width: 150px; height: 48px; Label_font-size: 25px; --ch5-text--font-size: 25px; text-shadow: 1px 1px 1px #ffffff } #iud9 { left: 59px; top: 30px; position: absolute; width: 150px; height: 48px; Label_font-size: 25px; --ch5-text--font-size: 25px; text-shadow: 1px 1px 1px #ffffff } #iv7o { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 3px; border-color: #000000; width: 823px; height: 340px; left: 38px; top: 10px; position: absolute; border-top-left-radius: 10px; border-radius: 10px 10px 10px 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px } #izsy { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 3px; border-color: #000000; width: 823px; height: 340px; left: 38px; top: 380px; position: absolute; border-top-left-radius: 10px; border-radius: 10px 10px 10px 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px } #iu8w { width: 770px; height: auto; display: block; left: 65px; top: 106px; position: absolute; listSpacing_item-spacing: 10px; --ch5-subpage-reference-list--item-padding: 10px } #i9zq { display: block; background-color: #999999; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 819px; height: 89px; left: 39px; top: 11px; position: absolute; border-bottom-right-radius: 5px; border-radius: 5px 5px 5px 5px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px } #ie40 { display: block; background-color: #999999; border-style: solid; border-width: 0; border-color: rgba(27,75,124,0); width: 819px; height: 89px; left: 41px; top: 383px; position: absolute; border-bottom-right-radius: 5px; border-radius: 5px 5px 5px 5px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px } #inlz { left: 65px; top: 473px; position: absolute; width: 770px; height: auto } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "video routes"
+PageMode = "absolute"
+Id = "e8becf08-3c8c-4b37-9293-467e3907a472"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "2"
+centeritems = "true"
+numberofitems = "7"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "inlz"
+componentName = "Destination WL"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "i003"
+widgetid = "w90c3f1a0-4a08-48b1-8442-06e8f86f928e"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "2"
+centeritems = "true"
+numberofitems = "7"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iu8w"
+componentName = "Sources WL"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+widgetid = "w90c3f1a0-4a08-48b1-8442-06e8f86f928e"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iud9"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Sources"
+labelinnerhtml = "Sources"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "i7l1th9xiapbh"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i3uy"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Cable Boxes"
+labelinnerhtml = "Cable Boxes"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+oldID = "i8xi1"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_1"
+id = "izsy"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "i3siykttxl"
+componentWasResized = "true"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div"
+id = "iv7o"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "i1gglv7zju"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_2"
+id = "i9zq"
+devicesVisited = "[\"TSW-760\"]"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_3"
+id = "ie40"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "ip7mu"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "igu3p8zm4o"
+devicesVisited = "[\"TSW-760\"]"
+defaultWidth = "1003px"
+defaultHeight = "730px"
+

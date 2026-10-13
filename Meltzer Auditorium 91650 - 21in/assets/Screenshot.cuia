@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:56:24.032385-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:56:24.032383-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.901.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "888b0024-6198-4b53-bf0f-16263e2dabba"
+Name = "Screenshot"
+SourceUri = "Screenshot.png"
+AspectRatio = "5.176470588235294"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

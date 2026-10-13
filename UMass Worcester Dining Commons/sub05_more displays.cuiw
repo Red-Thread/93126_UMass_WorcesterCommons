@@ -1,0 +1,163 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-10-09 16:07:12.935087-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-10-09 16:07:12.935079-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="ihp39yrfvh" devicesVisited="[&quot;iPad (Landscape)&quot;]" defaultWidth="776px" defaultHeight="721px" class="widget-container"><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="4" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="i2ti" componentName="Display controls" ccid_linkSendReceive="True" ccid_ComponentType="Widget List" devicesVisited="[&quot;iPad (Landscape)&quot;]" widgetid="wd6ed61d6-ec82-4179-a603-c4033a846329" pd-subpagereceivestateshow="Contract Enabled">
+              </ch5-subpage-reference-list><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="irq3vtoexjqth" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Room Name" labelinnerhtml="Room Name" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;iPad (Landscape)&quot;]" ccid_themeCSSSet="true" pd-receivestatelabel="Contract Enabled" oldID="iuj8">
+              </ch5-text><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="9" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" useContractForNumItems="false" useContractForItemEnable="false" useContractForItemShow="true" customvstheme="custom" loaditems="visible-only" id="iqbdyiz0futmg" componentName="aud srcs" ccid_linkSendReceive="True" ccid_ComponentType="Widget List" devicesVisited="[&quot;iPad (Landscape)&quot;]" oldID="isq9uztmmsmgj" pd-subpagereceivestateshow="Contract Enabled" widgetid="w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6"></ch5-subpage-reference-list><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="icxqbgk61ki1s" componentName="Audio Sources" ccid_ActiveFont="'Roboto'" ccid_Label="Audio Sources" labelinnerhtml="Audio Sources" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;iPad (Landscape)&quot;]" ccid_themeCSSSet="true" oldID="iwpmvntdy2loo"></ch5-text><html-div labelmode="advanced" ccid_lteHTMLOnly="true" componentName="Html-div" id="idd5j4qu29ano" ccid_ComponentType="Html-div" devicesVisited="[&quot;iPad (Landscape)&quot;]" oldID="id8s8ax45jkdx"></html-div></div>
+
+{Css}
+@media (max-width: 99999px){#ihp39yrfvh{width:776px;height:721px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#iqbdyiz0futmg{width:562px;height:auto;display:block;left:99px;top:605px;position:absolute;z-index:5;listSpacing_item-spacing:5px;--ch5-subpage-reference-list--item-padding:5px;}#icxqbgk61ki1s{display:block;left:280px;top:543px;position:absolute;z-index:4;width:200px;height:48px;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--width:200px;text-shadow:1px 1px 1px black;}#icxqbgk61ki1s .ch5-text :not(i):not(svg){font-family:"Roboto";}#icxqbgk61ki1s .ch5-text{min-height:10;min-width:10;padding:0px;}#idd5j4qu29ano{display:block;background-color:#4d4d4d;border-style:solid;border-width:5px;border-color:rgba(27,75,124,0);width:776px;height:721px;white-space:normal;left:0px;top:0px;position:absolute;z-index:1;border-radius:30px 30px 30px 30px;}#irq3vtoexjqth{display:block;left:220px;top:16px;position:absolute;z-index:7;width:316px;height:36px;--ch5-text--width:316px;--ch5-text--height:36px;--ch5-text--font-color:#000000;Label_color:#000000;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;text-shadow:0px 0px 0px #9c9a9a;--ch5-text--font-weight:700;Label_font-weight:700;}#irq3vtoexjqth .ch5-text :not(i):not(svg){font-family:'Roboto';}#irq3vtoexjqth .ch5-text{min-height:10;min-width:10;padding:0px;}#i2ti{width:735px;height:auto;display:block;left:20px;top:93px;position:absolute;z-index:8;}#i2qw{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1181px) and (max-height: 777px), (orientation: landscape) and (max-width: 1179px){#ihp39yrfvh{width:776px;height:721px;left:0;top:0;position:absolute;}#iqbdyiz0futmg{left:99px;top:605px;height:auto;width:562px;position:absolute;}#icxqbgk61ki1s{left:280px;top:543px;Label_font-size:20px;--ch5-text--font-size:20px;width:200px;--ch5-text--width:200px;text-shadow:1px 1px 1px black;position:absolute;}#idd5j4qu29ano{display:block;background-color:#4d4d4d;border-style:solid;border-width:5px;border-color:rgba(27,75,124,0);width:776px;height:721px;white-space:normal;left:0px;top:0px;position:absolute;z-index:1;border-radius:30px 30px 30px 30px;}#irq3vtoexjqth{display:block;left:220px;top:16px;position:absolute;width:316px;height:36px;--ch5-text--width:316px;--ch5-text--height:36px;--ch5-text--font-color:#000000;Label_font-size:20px;--ch5-text--font-size:20px;text-shadow:0px 0px 0px #9c9a9a;Label_font-weight:700;--ch5-text--font-weight:700;}#i2ti{width:735px;height:auto;display:block;left:20px;top:93px;position:absolute;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "sub05_more displays"
+PageMode = "absolute"
+Id = "e64c458b-4c10-4dc3-bb11-15167506337b"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "4"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i2ti"
+componentName = "Display controls"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Widget List"
+devicesVisited = "[\"iPad (Landscape)\"]"
+widgetid = "wd6ed61d6-ec82-4179-a603-c4033a846329"
+pd-subpagereceivestateshow = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "irq3vtoexjqth"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Room Name"
+labelinnerhtml = "Room Name"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"iPad (Landscape)\"]"
+ccid_themeCSSSet = "true"
+pd-receivestatelabel = "Contract Enabled"
+oldID = "iuj8"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "9"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iqbdyiz0futmg"
+componentName = "aud srcs"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Widget List"
+devicesVisited = "[\"iPad (Landscape)\"]"
+oldID = "isq9uztmmsmgj"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "icxqbgk61ki1s"
+componentName = "Audio Sources"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Audio Sources"
+labelinnerhtml = "Audio Sources"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"iPad (Landscape)\"]"
+ccid_themeCSSSet = "true"
+oldID = "iwpmvntdy2loo"
+[[Elements.Components]]
+Type = "html-div"
+
+[Elements.Components.Attributes]
+labelmode = "advanced"
+ccid_lteHTMLOnly = "true"
+componentName = "Html-div"
+id = "idd5j4qu29ano"
+ccid_ComponentType = "Html-div"
+devicesVisited = "[\"iPad (Landscape)\"]"
+oldID = "id8s8ax45jkdx"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "ihp39yrfvh"
+devicesVisited = "[\"iPad (Landscape)\"]"
+defaultWidth = "776px"
+defaultHeight = "721px"
+

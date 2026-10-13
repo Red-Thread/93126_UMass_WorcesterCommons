@@ -1,0 +1,285 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-10-05 16:15:05.735706-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-10-05 16:15:05.735688-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="ib92795gb2" devicesvisited="[&quot;iPad (Landscape)&quot;]" defaultwidth="776px" defaultheight="721px" class="widget-container"><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="imiw4kdpjtf8i" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Room Name" labelinnerhtml="Room Name" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;iPad (Landscape)&quot;]" ccid_themecssset="true" pd-receivestatelabel="Contract Enabled" oldid="iuj8">
+              </ch5-text><ch5-subpage-reference-list orientation="vertical" columns="1" rows="3" centeritems="true" numberofitems="9" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="i7zaomx7pa9iu" componentname="video sources" ccid_linksendreceive="True" ccid_componenttype="Widget List" devicesvisited="[&quot;iPad (Landscape)&quot;]" pd-subpagereceivestateshow="Contract Enabled" oldid="if3u1" widgetid="w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6">
+              </ch5-subpage-reference-list><ch5-button-list centeritems="false" columns="1" endless="false" numberofitems="2" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="1" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="rounded-rectangle" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="Contract Enabled" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="iq3rn22cdus1x" componentname="Display power" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;iPad (Landscape)&quot;]" pd-buttonreceivestateiconurl="" assetid="0" pd-receivestateselectedbutton="" usecontractforitemshow="true" contractitemlabeltype="innerHTML" buttonselected="false" oldid="ial0e9huodc7f"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="iz4y-2" devicesvisited="[&quot;iPad (Landscape)&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Display Power On" labelinnerhtml="Display Power On"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="iw6fd-2" devicesvisited="[&quot;iPad (Landscape)&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Display Power Off" labelinnerhtml="Display Power Off"></ch5-button-list-individual-button></ch5-button-list><html-div labelmode="advanced" ccid_ltehtmlonly="true" componentname="Html-div_1" id="ig6zotabd1oy5" ccid_componenttype="Html-div" devicesvisited="[&quot;iPad (Landscape)&quot;]" oldid="i7la6"></html-div><ch5-subpage-reference-list orientation="vertical" columns="1" rows="3" centeritems="true" numberofitems="9" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="true" customvstheme="custom" loaditems="visible-only" id="isq9uztmmsmgj" componentname="aud srcs" ccid_linksendreceive="True" ccid_componenttype="Widget List" devicesvisited="[&quot;iPad (Landscape)&quot;]" oldid="ia39drkgycaru" pd-subpagereceivestateshow="Contract Enabled" widgetid="w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6"></ch5-subpage-reference-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iwpmvntdy2loo" componentname="Audio Sources" ccid_activefont="'Roboto'" ccid_label="Audio Sources" labelinnerhtml="Audio Sources" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;iPad (Landscape)&quot;]" ccid_themecssset="true" oldid="ikbkk6a2cgjn1"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="idiv1mnrjuvyp" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="Video Sources" labelinnerhtml="Video Sources" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;iPad (Landscape)&quot;]" ccid_themecssset="true" oldid="in7w3">
+              </ch5-text><html-div labelmode="advanced" ccid_ltehtmlonly="true" componentname="Html-div" id="id8s8ax45jkdx" ccid_componenttype="Html-div" devicesvisited="[&quot;iPad (Landscape)&quot;]" oldid="ip9p"></html-div></div>
+
+{Css}
+@media (max-width: 99999px){#ib92795gb2{width:776px;height:721px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#isq9uztmmsmgj{width:auto;height:307px;display:block;left:491px;top:322px;position:absolute;z-index:5;listSpacing_item-spacing:5px;--ch5-subpage-reference-list--item-padding:5px;}#iwpmvntdy2loo{display:block;left:491px;top:226px;position:absolute;z-index:4;width:200px;height:48px;--ch5-text--font-size:28px;Label_font-size:28px;custom-normal-font-size:28px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--width:200px;text-shadow:1px 1px 1px black;}#idiv1mnrjuvyp{display:block;left:107px;top:226px;position:absolute;z-index:3;width:200px;height:48px;--ch5-text--font-size:28px;Label_font-size:28px;custom-normal-font-size:28px;--ch5-text--font-color:#ffffff;Label_color:#ffffff;--ch5-text--width:200px;text-shadow:1px 1px 1px black;}#ig6zotabd1oy5{display:block;background-color:#B6C6D5;border-style:solid;border-width:1px;border-color:#ffffff;width:0px;height:400px;white-space:normal;left:398px;top:212px;position:absolute;z-index:6;}#id8s8ax45jkdx{display:block;background-color:#4d4d4d;border-style:solid;border-width:5px;border-color:rgba(27,75,124,0);width:776px;height:721px;white-space:normal;left:0px;top:0px;position:absolute;z-index:1;border-radius:30px 30px 30px 30px;}#idiv1mnrjuvyp .ch5-text :not(i):not(svg){font-family:"Roboto";}#idiv1mnrjuvyp .ch5-text{min-height:10;min-width:10;padding:0px;}#iwpmvntdy2loo .ch5-text :not(i):not(svg){font-family:"Roboto";}#iwpmvntdy2loo .ch5-text{min-height:10;min-width:10;padding:0px;}#iq3rn22cdus1x .ch5-button-list :not(i):not(svg){font-family:"Roboto";}#iq3rn22cdus1x ch5-button{--ch5-button--default-background-color:rgba(0,153,255,0);--ch5-button--default-border-color:#d8d2d2;--ch5-button--default-border-width:2px;--ch5-button--regular-font-size:18px;custom-normal-label-font-size:18px;Label_font-size:18px;--ch5-button--regular-pressed-font-size:18px;custom-pressed-label-font-size:18px;pressedLabel_font-size:18px;--ch5-button--regular-selected-font-size:18px;custom-selected-label-font-size:18px;selectedLabel_font-size:18px;}#i7zaomx7pa9iu{width:auto;height:310px;display:block;left:107px;top:321px;position:absolute;z-index:8;listSpacing_item-spacing:5px;--ch5-subpage-reference-list--item-padding:5px;}#imiw4kdpjtf8i{display:block;left:242px;top:20px;position:absolute;z-index:9;width:316px;height:36px;--ch5-text--width:316px;--ch5-text--height:36px;--ch5-text--font-color:#000000;Label_color:#000000;--ch5-text--font-size:20px;Label_font-size:20px;custom-normal-font-size:20px;text-shadow:0px 0px 0px #9c9a9a;--ch5-text--font-weight:700;Label_font-weight:700;}#imiw4kdpjtf8i .ch5-text :not(i):not(svg){font-family:'Roboto';}#imiw4kdpjtf8i .ch5-text{min-height:10;min-width:10;padding:0px;}#ihd5{background-color:#ffffff;}#iq3rn22cdus1x{width:411px;height:91px;listbuttonHSize_width:200px;listbuttonVSize_height:70px;listbuttonSpacing_row-gap:0px;listbuttonSpacing_column-gap:0px;buttonListDefaultImage_width:21px;buttonListDefaultImage_height:21px;display:block;left:193px;top:100px;position:absolute;z-index:7;Appearance_background-color:rgba(0,153,255,0);Appearance_border-color:#d8d2d2;Appearance_border-width:2px;Label_font-size:18px;--ch5-button-list--button-container-height:70px;pressedLabel_font-size:18px;selectedLabel_font-size:18px;--ch5-button--default-border-color:#d8d2d2;--ch5-button-list--button-container-width:200px;}}@media (orientation: landscape) and (max-width: 1181px) and (max-height: 777px), (orientation: landscape) and (max-width: 1179px){#ib92795gb2{width:776px;height:721px;left:0;top:0;position:absolute;}#isq9uztmmsmgj{left:491px;top:322px;height:307px;}#iwpmvntdy2loo{left:491px;top:226px;Label_font-size:28px;--ch5-text--font-size:28px;width:200px;--ch5-text--width:200px;text-shadow:1px 1px 1px black;position:absolute;}#idiv1mnrjuvyp{left:107px;top:226px;Label_font-size:28px;--ch5-text--font-size:28px;width:200px;--ch5-text--width:200px;text-shadow:1px 1px 1px black;}#ig6zotabd1oy5{display:block;background-color:#B6C6D5;border-style:solid;border-width:1px;border-color:#ffffff;width:0px;height:400px;white-space:normal;left:398px;top:212px;position:absolute;}#id8s8ax45jkdx{display:block;background-color:#4d4d4d;border-style:solid;border-width:5px;border-color:rgba(27,75,124,0);width:776px;height:721px;white-space:normal;left:0px;top:0px;position:absolute;z-index:1;border-radius:30px 30px 30px 30px;}#i7zaomx7pa9iu{left:107px;top:321px;height:310px;}#imiw4kdpjtf8i{display:block;left:242px;top:20px;position:absolute;width:316px;height:36px;--ch5-text--width:316px;--ch5-text--height:36px;--ch5-text--font-color:#000000;Label_font-size:20px;--ch5-text--font-size:20px;text-shadow:0px 0px 0px #9c9a9a;Label_font-weight:700;--ch5-text--font-weight:700;}#iq3rn22cdus1x{left:193px;top:100px;position:absolute;height:91px;width:411px;listbuttonHSize_width:200px;--ch5-button-list--button-container-width:200px;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "sub04_single display"
+PageMode = "absolute"
+Id = "e69efda0-f862-4259-9d35-692e85ed22c5"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "imiw4kdpjtf8i"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Room Name"
+labelinnerhtml = "Room Name"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"iPad (Landscape)\"]"
+ccid_themeCSSSet = "true"
+pd-receivestatelabel = "Contract Enabled"
+oldID = "iuj8"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "vertical"
+columns = "1"
+rows = "3"
+centeritems = "true"
+numberofitems = "9"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i7zaomx7pa9iu"
+componentName = "video sources"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Widget List"
+devicesVisited = "[\"iPad (Landscape)\"]"
+pd-subpagereceivestateshow = "Contract Enabled"
+oldID = "if3u1"
+widgetid = "w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6"
+[[Elements.Components]]
+Type = "Ch5 Button List"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 1"
+componentNumber = "1"
+id = "iz4y-2"
+devicesVisited = "[\"iPad (Landscape)\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
+ccid_Label = "Display Power On"
+labelinnerhtml = "Display Power On"
+[[Elements.Components.Components]]
+Type = "Ch5 Button List Individual Button"
+
+[Elements.Components.Components.Attributes]
+ccid_imageIconType = "iconclass"
+componentName = "Individual Button 2"
+componentNumber = "2"
+id = "iw6fd-2"
+devicesVisited = "[\"iPad (Landscape)\"]"
+pageFlipAttributeName = "onRelease"
+onRelease = "0"
+ccid_Label = "Display Power Off"
+labelinnerhtml = "Display Power Off"
+
+[Elements.Components.Attributes]
+centeritems = "false"
+columns = "1"
+endless = "false"
+numberofitems = "2"
+orientation = "horizontal"
+previewstate = "buttonnormal"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+rows = "1"
+scrollbar = "true"
+scrolltoposition = "0"
+stretch = "null"
+indexid = "idx"
+customclass = "ccid-custom"
+buttoncheckboxposition = "left"
+buttoncheckboxshow = "false"
+buttonhalignlabel = "center"
+buttonvalignlabel = "middle"
+buttoniconposition = "first"
+buttonmode = "0"
+buttonshape = "rounded-rectangle"
+buttontype = "default"
+buttoniconurlfilltype = "initial"
+pd-receivestateenable = ""
+pd-receivestateshow = ""
+pd-receivestatescrolltoposition = ""
+pd-receivestatenumberofitems = ""
+pd-buttonreceivestateselected = "Contract Enabled"
+pd-buttonreceivestatescriptlabelhtml = "Contract Enabled"
+pd-buttonreceivestateiconclass = ""
+buttonsendeventonclick = "Contract Enabled"
+pd-buttonreceivestateenable = ""
+pd-buttonreceivestateshow = "Contract Enabled"
+usecontractforeachbuttonselection = "false"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "iq3rn22cdus1x"
+componentName = "Display power"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = ""
+ccid_linkSendReceive = "True"
+ccid_imageIconType = "iconclass"
+ccid_ComponentType = "Button List"
+devicesVisited = "[\"iPad (Landscape)\"]"
+pd-buttonreceivestateiconurl = ""
+assetid = "0"
+pd-receivestateselectedbutton = ""
+useContractForItemShow = "true"
+contractitemlabeltype = "innerHTML"
+buttonselected = "false"
+oldID = "ial0e9huodc7f"
+[[Elements.Components]]
+Type = "html-div"
+
+[Elements.Components.Attributes]
+labelmode = "advanced"
+ccid_lteHTMLOnly = "true"
+componentName = "Html-div_1"
+id = "ig6zotabd1oy5"
+ccid_ComponentType = "Html-div"
+devicesVisited = "[\"iPad (Landscape)\"]"
+oldID = "i7la6"
+[[Elements.Components]]
+Type = "Ch5 Subpage Reference List"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "vertical"
+columns = "1"
+rows = "3"
+centeritems = "true"
+numberofitems = "9"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "true"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "isq9uztmmsmgj"
+componentName = "aud srcs"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Widget List"
+devicesVisited = "[\"iPad (Landscape)\"]"
+oldID = "ia39drkgycaru"
+pd-subpagereceivestateshow = "Contract Enabled"
+widgetid = "w6a9f4f6d-6c70-4976-a1ad-02f1bd3bf3a6"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iwpmvntdy2loo"
+componentName = "Audio Sources"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Audio Sources"
+labelinnerhtml = "Audio Sources"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"iPad (Landscape)\"]"
+ccid_themeCSSSet = "true"
+oldID = "ikbkk6a2cgjn1"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "idiv1mnrjuvyp"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Video Sources"
+labelinnerhtml = "Video Sources"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"iPad (Landscape)\"]"
+ccid_themeCSSSet = "true"
+oldID = "in7w3"
+[[Elements.Components]]
+Type = "html-div"
+
+[Elements.Components.Attributes]
+labelmode = "advanced"
+ccid_lteHTMLOnly = "true"
+componentName = "Html-div"
+id = "id8s8ax45jkdx"
+ccid_ComponentType = "Html-div"
+devicesVisited = "[\"iPad (Landscape)\"]"
+oldID = "ip9p"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "ib92795gb2"
+devicesVisited = "[\"iPad (Landscape)\"]"
+defaultWidth = "776px"
+defaultHeight = "721px"
+

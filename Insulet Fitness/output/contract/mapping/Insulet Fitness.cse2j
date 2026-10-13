@@ -1,0 +1,95 @@
+{
+  "name": "Insulet Fitness",
+  "timestamp": "2026-09-18T16:13:02.575205+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "states": {
+      "boolean": {
+        "1": {
+          "3": "Main.logo_btn.Selected",
+          "4": "Main.Music_mute_btn.Selected"
+        },
+        "3": {
+          "3": "settings.settingssavebtn.Selected"
+        },
+        "4": {
+          "1": "settings.schedule.Visibility_fb"
+        },
+        "5": {
+          "1": "settings.videoroutes.Visibility_fb"
+        },
+        "6": {
+          "1": "settings.cablebox.Visibility_fb"
+        }
+      },
+      "numeric": {
+        "1": {
+          "4": "Main.Slider_fitness.LowerTouchfb",
+          "5": "Main.Slider_locker.LowerTouchfb"
+        }
+      },
+      "string": {}
+    },
+    "events": {
+      "boolean": {
+        "Main.logo_btn.Press": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "Main.Music_mute_btn.Press": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Main.Musicchannelslist.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 2
+        },
+        "Main.Musicchannelslist.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 2
+        },
+        "Main.Musicchannelslist.Button3ItemPress": {
+          "joinId": 1003,
+          "smartObjectId": 2
+        },
+        "Main.Musicchannelslist.Button4ItemPress": {
+          "joinId": 1004,
+          "smartObjectId": 2
+        },
+        "Main.Musicchannelslist.Button5ItemPress": {
+          "joinId": 1005,
+          "smartObjectId": 2
+        },
+        "settings.settingssavebtn.Press": {
+          "joinId": 3,
+          "smartObjectId": 3
+        },
+        "settings.settingsBL.Button1ItemPress": {
+          "joinId": 1001,
+          "smartObjectId": 7
+        },
+        "settings.settingsBL.Button2ItemPress": {
+          "joinId": 1002,
+          "smartObjectId": 7
+        },
+        "settings.settingsBL.Button3ItemPress": {
+          "joinId": 1003,
+          "smartObjectId": 7
+        }
+      },
+      "numeric": {
+        "Main.Slider_fitness.LowerTouch": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "Main.Slider_locker.LowerTouch": {
+          "joinId": 5,
+          "smartObjectId": 1
+        }
+      },
+      "string": {}
+    }
+  }
+}

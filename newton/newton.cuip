@@ -1,0 +1,35 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:57:39.682079-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:57:39.682074-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "newton"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.16.0"
+Id = "64a059fe-9c05-4047-8109-b3e082f497ef"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
+DeviceResolutionIds = "D-L-TSW1070-1280-0800"
+ipId = "03"
+ProjectSchemaVersion = "13"
+ContractIsStale = "false"
+

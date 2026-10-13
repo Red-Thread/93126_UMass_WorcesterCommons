@@ -1,0 +1,331 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:56:23.972951-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:56:23.972949-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" id="i1hiqbz516" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" defaultwidth="500px" defaultheight="500px" class="widget-container"><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="1" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="i3ho" componentname="Widget List_1" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" widgetid="wbb4b2023-ccc0-4ba3-8aa7-82cebd7dedda">
+              </ch5-subpage-reference-list><html-div componentname="Html-div" id="i1my" devicesvisited="[]" oldid="i798sj0udl8pg"></html-div><ch5-subpage-reference-list orientation="horizontal" columns="1" rows="1" centeritems="true" numberofitems="5" scrolltoposition="0" scrollbar="false" endless="false" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" usecontractfornumitems="false" usecontractforitemenable="false" usecontractforitemshow="false" customvstheme="custom" loaditems="visible-only" id="irx6" componentname="Widget List" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" widgetid="wbb4b2023-ccc0-4ba3-8aa7-82cebd7dedda">
+              </ch5-subpage-reference-list><html-div componentname="Html-div_1" id="ia2v" devicesvisited="[]" oldid="il3rf"></html-div><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="right" valignlabel="top" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="syncEnabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="isoy" componentname="audiosp_close" ccid_activefont="'Roboto'" ccid_label="<p><span style=&quot;font-size: 150%; font-family: 'Roboto';&quot;>X</span></p>" labelinnerhtml="<p style=&quot;margin-block-start: 0em!important;margin-block-end: 0em!important;&quot;><span style=&quot;font-size: 150%; font-family: 'Roboto';&quot;>X</span></p>" assetid="0" pageflip="0" devicesvisited="[]" ccid_sync_normal_appearancesector_background-color="syncDisabled" ccid_sync_normal_appearancesector_background-color_toggle="0" ccid_sync_pressed_appearancesector_background-color="syncDisabled" ccid_sync_pressed_appearancesector_background-color_toggle="0" ccid_sync_selected_appearancesector_background-color="syncDisabled" ccid_sync_selected_appearancesector_background-color_toggle="0" ccid_sync_normal_appearancesector_border-color="syncEnabled" ccid_sync_pressed_appearancesector_border-color="syncEnabled" ccid_sync_selected_appearancesector_border-color="syncEnabled" ccid_sync_normal_appearancesector_border-width="syncEnabled" ccid_sync_pressed_appearancesector_border-width="syncEnabled" ccid_sync_selected_appearancesector_border-width="syncEnabled" ccid_sync_normal_appearancesector_border-style="syncEnabled" ccid_sync_pressed_appearancesector_border-style="syncEnabled" ccid_sync_selected_appearancesector_border-style="syncEnabled" ccid_sync_normal_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_normal_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_normal_labelsector_color="syncEnabled" ccid_sync_pressed_labelsector_color="syncEnabled" ccid_sync_selected_labelsector_color="syncEnabled" ccid_sync_normal_labelsector_font-size="syncEnabled" ccid_sync_pressed_labelsector_font-size="syncEnabled" ccid_sync_selected_labelsector_font-size="syncEnabled" ccid_sync_normal_labelsector_font-weight="syncEnabled" ccid_sync_pressed_labelsector_font-weight="syncEnabled" ccid_sync_selected_labelsector_font-weight="syncEnabled" ccid_sync_normal_labelsector_text-decoration="syncEnabled" ccid_sync_pressed_labelsector_text-decoration="syncEnabled" ccid_sync_selected_labelsector_text-decoration="syncEnabled" ccid_sync_normal_labelsector_letter-spacing="syncEnabled" ccid_sync_pressed_labelsector_letter-spacing="syncEnabled" ccid_sync_selected_labelsector_letter-spacing="syncEnabled" ccid_sync_normal_labelsector_margin-left="syncEnabled" ccid_sync_pressed_labelsector_margin-left="syncEnabled" ccid_sync_selected_labelsector_margin-left="syncEnabled" ccid_sync_normal_labelsector_margin-top="syncEnabled" ccid_sync_pressed_labelsector_margin-top="syncEnabled" ccid_sync_selected_labelsector_margin-top="syncEnabled" ccid_sync_normal_iconsector_color="syncEnabled" ccid_sync_pressed_iconsector_color="syncEnabled" ccid_sync_selected_iconsector_color="syncEnabled" ccid_sync_normal_iconsector_font-size="syncEnabled" ccid_sync_pressed_iconsector_font-size="syncEnabled" ccid_sync_selected_iconsector_font-size="syncEnabled" ccid_sync_normal_iconsector_margin-left="syncEnabled" ccid_sync_pressed_iconsector_margin-left="syncEnabled" ccid_sync_selected_iconsector_margin-left="syncEnabled" ccid_sync_normal_iconsector_margin-top="syncEnabled" ccid_sync_pressed_iconsector_margin-top="syncEnabled" ccid_sync_selected_iconsector_margin-top="syncEnabled" ccid_sync_normal_appearancesector_border-color_toggle="1" ccid_sync_normal_appearancesector_border-width_toggle="1" ccid_sync_normal_appearancesector_border-style_toggle="1" ccid_sync_normal_appearancesector_border-top-left-radius_toggle="1" ccid_sync_normal_appearancesector_border-top-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle="1" ccid_sync_normal_labelsector_color_toggle="1" ccid_sync_normal_labelsector_font-size_toggle="1" ccid_sync_normal_labelsector_font-weight_toggle="1" ccid_sync_normal_labelsector_text-decoration_toggle="1" ccid_sync_normal_labelsector_letter-spacing_toggle="1" ccid_sync_normal_labelsector_margin-left_toggle="1" ccid_sync_normal_labelsector_margin-top_toggle="1" ccid_sync_normal_iconsector_color_toggle="1" ccid_sync_normal_iconsector_font-size_toggle="1" ccid_sync_normal_iconsector_margin-left_toggle="1" ccid_sync_normal_iconsector_margin-top_toggle="1" ccid_customsizeset="true" labelmode="advanced" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled">
+              </ch5-button><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i8th" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Microphones" labelinnerhtml="Microphones" ccid_linksendreceive="True" devicesvisited="[]" ccid_themecssset="true">
+              </ch5-text><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="il1i" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" componentwasresized="true" imgbackgroundcolor="transparent" backgroundcolor="#88d0d4">
+              </ch5-background></div>
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #i1hiqbz516 { width: 3840px; height: 2160px; left: 0; top: 0; position: absolute } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #i8th .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i8th .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #isoy { display: block; left: 1741px; top: 19px; position: absolute; width: 97px; height: 95px; --ch5-button--regular-width: 97px; --ch5-button--regular-height: 95px; --ch5-button--default-background-color: rgba(0,153,255,0.01); Appearance_background-color: rgba(0,153,255,0.01); --ch5-button--default-border-color: rgba(249,252,255,0); Appearance_border-color: rgba(249,252,255,0); --ch5-button--default-pressed-border-color: rgba(249,252,255,0); pressedAppearance_border-color: rgba(249,252,255,0); --ch5-button--default-selected-border-color: rgba(249,252,255,0); selectedAppearance_border-color: rgba(249,252,255,0); --ch5-button--regular-icon-size: 30px; undefined: 30px; Icon_font-size: 30px; custom-normal-icon-font-size: 30px; --ch5-button--regular-pressed-icon-size: 30px; pressedIcon_font-size: 30px; custom-pressed-icon-font-size: 30px; --ch5-button--regular-selected-icon-size: 30px; selectedIcon_font-size: 30px; custom-selected-icon-font-size: 30px; --ch5-button--regular-font-size: 30px; Label_font-size: 30px; custom-normal-label-font-size: 30px; --ch5-button--regular-pressed-font-size: 30px; pressedLabel_font-size: 30px; custom-pressed-label-font-size: 30px; --ch5-button--regular-selected-font-size: 30px; selectedLabel_font-size: 30px; custom-selected-label-font-size: 30px; --ch5-button--label-margin-bottom: 0; --ch5-button--pressed-label-margin-bottom: 0; --ch5-button--selected-label-margin-bottom: 0; --ch5-button--icon-margin-bottom: 0; --ch5-button--pressed-icon-margin-bottom: 0; --ch5-button--selected-icon-margin-bottom: 0; --ch5-button--regular-font-weight: 400; Label_font-weight: 400; --ch5-button--regular-pressed-font-weight: 400; pressedLabel_font-weight: 400; --ch5-button--regular-selected-font-weight: 400; selectedLabel_font-weight: 400; --ch5-button--label-margin-left: 0; --ch5-button--label-margin-right: 0; --ch5-button--pressed-label-margin-left: 0; --ch5-button--pressed-label-margin-right: 0; --ch5-button--selected-label-margin-left: 0; --ch5-button--selected-label-margin-right: 0; --ch5-button--icon-margin-left: 0; --ch5-button--icon-margin-right: 0; --ch5-button--pressed-icon-margin-left: 0; --ch5-button--pressed-icon-margin-right: 0; --ch5-button--selected-icon-margin-left: 0; --ch5-button--selected-icon-margin-right: 0; z-index: 2 } #il1i { width: 100%; height: 100%; display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; z-index: -98 } #i8th { display: block; left: 727px; top: 30px; position: absolute; width: 375px; height: 64px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 40px; Label_font-size: 40px; custom-normal-font-size: 40px; --ch5-text--width: 375px; --ch5-text--height: 64px; z-index: 1 } #irx6 { width: 1088px; height: auto; display: block; left: 67px; top: 130px; position: absolute; listSpacing_item-spacing: 8px; --ch5-subpage-reference-list--item-padding: 8px; z-index: 4 } #ia2v { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 5px; border-color: #000000; width: 1133px; height: 567px; left: 43px; top: 105px; position: absolute; z-index: 3 } #i1my { display: block; background-color: rgba(182,198,213,0); border-style: solid; border-width: 5px; border-color: #000000; width: 399px; height: 567px; left: 1330px; top: 103px; position: absolute; z-index: 5 } #i3ho { width: 200px; height: auto; display: block; left: 1434px; top: 130px; position: absolute; z-index: 6 } #wrapper { background-color: #ffffff } }
+@media (orientation: landscape) and (max-width: 3841px) and (max-height: 2161px), (orientation: landscape) and (max-width: 3839px) { #i1hiqbz516 { width: 3840px; height: 2160px; left: 0; top: 0; position: absolute } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "sub_01_mics"
+PageMode = "absolute"
+Id = "92ea88b4-1dc4-4083-8050-398d8b041f6e"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "1"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "i3ho"
+componentName = "Widget List_1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+widgetid = "wbb4b2023-ccc0-4ba3-8aa7-82cebd7dedda"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div"
+id = "i1my"
+devicesVisited = "[]"
+oldID = "i798sj0udl8pg"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Subpage Reference List"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+columns = "1"
+rows = "1"
+centeritems = "true"
+numberofitems = "5"
+scrolltoposition = "0"
+scrollbar = "false"
+endless = "false"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+useContractForNumItems = "false"
+useContractForItemEnable = "false"
+useContractForItemShow = "false"
+customvstheme = "custom"
+loaditems = "visible-only"
+id = "irx6"
+componentName = "Widget List"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+widgetid = "wbb4b2023-ccc0-4ba3-8aa7-82cebd7dedda"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_1"
+id = "ia2v"
+devicesVisited = "[]"
+oldID = "il3rf"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "right"
+valignlabel = "top"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "syncEnabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "isoy"
+componentName = "audiosp_close"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "<p><span style=\"font-size: 150%; font-family: 'Roboto';\">X</span></p>"
+labelinnerhtml = "<p style=\"margin-block-start: 0em!important;margin-block-end: 0em!important;\"><span style=\"font-size: 150%; font-family: 'Roboto';\">X</span></p>"
+assetid = "0"
+pageflip = "0"
+devicesVisited = "[]"
+ccid_sync_normal_appearancesector_background-color = "syncDisabled"
+ccid_sync_normal_appearancesector_background-color_toggle = "0"
+ccid_sync_pressed_appearancesector_background-color = "syncDisabled"
+ccid_sync_pressed_appearancesector_background-color_toggle = "0"
+ccid_sync_selected_appearancesector_background-color = "syncDisabled"
+ccid_sync_selected_appearancesector_background-color_toggle = "0"
+ccid_sync_normal_appearancesector_border-color = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-color = "syncEnabled"
+ccid_sync_selected_appearancesector_border-color = "syncEnabled"
+ccid_sync_normal_appearancesector_border-width = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-width = "syncEnabled"
+ccid_sync_selected_appearancesector_border-width = "syncEnabled"
+ccid_sync_normal_appearancesector_border-style = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-style = "syncEnabled"
+ccid_sync_selected_appearancesector_border-style = "syncEnabled"
+ccid_sync_normal_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_normal_labelsector_color = "syncEnabled"
+ccid_sync_pressed_labelsector_color = "syncEnabled"
+ccid_sync_selected_labelsector_color = "syncEnabled"
+ccid_sync_normal_labelsector_font-size = "syncEnabled"
+ccid_sync_pressed_labelsector_font-size = "syncEnabled"
+ccid_sync_selected_labelsector_font-size = "syncEnabled"
+ccid_sync_normal_labelsector_font-weight = "syncEnabled"
+ccid_sync_pressed_labelsector_font-weight = "syncEnabled"
+ccid_sync_selected_labelsector_font-weight = "syncEnabled"
+ccid_sync_normal_labelsector_text-decoration = "syncEnabled"
+ccid_sync_pressed_labelsector_text-decoration = "syncEnabled"
+ccid_sync_selected_labelsector_text-decoration = "syncEnabled"
+ccid_sync_normal_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_pressed_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_selected_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_normal_labelsector_margin-left = "syncEnabled"
+ccid_sync_pressed_labelsector_margin-left = "syncEnabled"
+ccid_sync_selected_labelsector_margin-left = "syncEnabled"
+ccid_sync_normal_labelsector_margin-top = "syncEnabled"
+ccid_sync_pressed_labelsector_margin-top = "syncEnabled"
+ccid_sync_selected_labelsector_margin-top = "syncEnabled"
+ccid_sync_normal_iconsector_color = "syncEnabled"
+ccid_sync_pressed_iconsector_color = "syncEnabled"
+ccid_sync_selected_iconsector_color = "syncEnabled"
+ccid_sync_normal_iconsector_font-size = "syncEnabled"
+ccid_sync_pressed_iconsector_font-size = "syncEnabled"
+ccid_sync_selected_iconsector_font-size = "syncEnabled"
+ccid_sync_normal_iconsector_margin-left = "syncEnabled"
+ccid_sync_pressed_iconsector_margin-left = "syncEnabled"
+ccid_sync_selected_iconsector_margin-left = "syncEnabled"
+ccid_sync_normal_iconsector_margin-top = "syncEnabled"
+ccid_sync_pressed_iconsector_margin-top = "syncEnabled"
+ccid_sync_selected_iconsector_margin-top = "syncEnabled"
+ccid_sync_normal_appearancesector_border-color_toggle = "1"
+ccid_sync_normal_appearancesector_border-width_toggle = "1"
+ccid_sync_normal_appearancesector_border-style_toggle = "1"
+ccid_sync_normal_appearancesector_border-top-left-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-top-right-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle = "1"
+ccid_sync_normal_labelsector_color_toggle = "1"
+ccid_sync_normal_labelsector_font-size_toggle = "1"
+ccid_sync_normal_labelsector_font-weight_toggle = "1"
+ccid_sync_normal_labelsector_text-decoration_toggle = "1"
+ccid_sync_normal_labelsector_letter-spacing_toggle = "1"
+ccid_sync_normal_labelsector_margin-left_toggle = "1"
+ccid_sync_normal_labelsector_margin-top_toggle = "1"
+ccid_sync_normal_iconsector_color_toggle = "1"
+ccid_sync_normal_iconsector_font-size_toggle = "1"
+ccid_sync_normal_iconsector_margin-left_toggle = "1"
+ccid_sync_normal_iconsector_margin-top_toggle = "1"
+ccid_customSizeSet = "true"
+labelmode = "advanced"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i8th"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Microphones"
+labelinnerhtml = "Microphones"
+ccid_linkSendReceive = "True"
+devicesVisited = "[]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "il1i"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+componentWasResized = "true"
+imgbackgroundcolor = "transparent"
+backgroundcolor = "#88d0d4"
+url = ""
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "i1hiqbz516"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+defaultWidth = "500px"
+defaultHeight = "500px"
+

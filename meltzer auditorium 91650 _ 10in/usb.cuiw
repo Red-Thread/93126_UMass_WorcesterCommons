@@ -1,0 +1,306 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:58:34.10927-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:58:34.109268-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" id="i1hci3ii9g" devicesvisited="[&quot;TSW-1070&quot;]" defaultwidth="1100px" defaultheight="590px" class="widget-container"><ch5-text clearlabel="true" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="icy4" componentname="Formatted-Text_8" ccid_activefont="'Roboto'" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="iwp2w"></ch5-text><ch5-text clearlabel="true" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ik74" componentname="Formatted-Text_7" ccid_activefont="'Roboto'" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="iwp2w"></ch5-text><ch5-text clearlabel="true" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i4gi" componentname="Formatted-Text_6" ccid_activefont="'Roboto'" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="icz5" componentname="Formatted-Text_5" ccid_activefont="'Roboto'" ccid_label="Rm- Local/ Remote" labelinnerhtml="Rm- Local/ Remote" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="it9a3"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i5ve" componentname="Formatted-Text_4" ccid_activefont="'Roboto'" ccid_label="Rm- Local/ Remote" labelinnerhtml="Rm- Local/ Remote" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="it9a3"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ix26" componentname="Formatted-Text_3" ccid_activefont="'Roboto'" ccid_label="Rm- Local/ Remote" labelinnerhtml="Rm- Local/ Remote" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
+              </ch5-text><div componentname="Html-div_2" id="ig6m" devicesvisited="[&quot;TSW-1070&quot;]"></div><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="izje" componentname="Formatted-Text_1" ccid_activefont="" ccid_label="<p>Note: This information is being pulled from the NVX editing Local MAC is disabled.</p>" labelinnerhtml="<p>Note: This information is being pulled from the NVX editing Local MAC is disabled.</p>" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
+              </ch5-text><div componentname="Html-div_1" id="idoy" devicesvisited="[&quot;TSW-1070&quot;]" oldid="i3xn"></div><div componentname="Html-div" id="it7k" devicesvisited="[&quot;TSW-1070&quot;]"></div><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="itbj" componentname="Formatted-Text_2" ccid_activefont="'Roboto'" ccid_label="USB Remote - Mac Addresses" labelinnerhtml="USB Remote - Mac Addresses" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" oldid="iyvi"></ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="it5x" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="USB Local - Mac Addresses" labelinnerhtml="USB Local - Mac Addresses" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true">
+              </ch5-text></div>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #i1hci3ii9g { width: 1100px; height: 590px; left: 0; top: 0; position: absolute; background-color: #6663633a } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #wrapper { background-color: #ffffff } #it5x { display: block; left: 335px; top: 290px; position: absolute; width: 435px; height: 63px; --ch5-text--width: 435px; --ch5-text--height: 63px; --ch5-text--font-color: #fdfafa; Label_color: #fdfafa; --ch5-text--font-size: 30px; Label_font-size: 30px; custom-normal-font-size: 30px; z-index: 1 } #it5x .ch5-text :not(i):not(svg) { font-family: "Roboto" } #it5x .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #izje { display: block; left: 76px; top: 167px; position: absolute; width: 923px; height: 105px; --ch5-text--width: 923px; --ch5-text--height: 105px; --ch5-text--font-color: #fbf6f6; Label_color: #fbf6f6; --ch5-text--font-size: 25px; Label_font-size: 25px; custom-normal-font-size: 25px; z-index: 5 } #izje .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #itbj { display: block; left: 322px; top: 2px; position: absolute; width: 435px; height: 63px; --ch5-text--width: 435px; --ch5-text--height: 63px; --ch5-text--font-color: #fdfafa; Label_color: #fdfafa; --ch5-text--font-size: 30px; Label_font-size: 30px; custom-normal-font-size: 30px; z-index: 2 } #itbj .ch5-text :not(i):not(svg) { font-family: "Roboto" } #itbj .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #it7k { display: block; background-color: rgba(106,109,113,0.43); border-style: solid; border-width: 0; border-color: #1B4B7C; width: 1071px; height: 220px; left: 10px; top: 63px; position: absolute; z-index: 3 } #idoy { display: block; background-color: rgba(106,109,113,0.43); border-style: solid; border-width: 0; border-color: #1B4B7C; width: 1071px; height: 220px; left: 12px; top: 348px; position: absolute; z-index: 4 } #ig6m { display: block; background-color: rgba(101,112,121,0.53); border-style: solid; border-width: 0; border-color: #1B4B7C; width: 1064px; height: 88px; left: 14px; top: 67px; position: absolute; z-index: 6 } #ix26 { display: block; left: 50px; top: 79px; position: absolute; width: 150px; height: 48px; --ch5-text--font-color: #fbf5f5; Label_color: #fbf5f5; z-index: 7 } #ix26 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #ix26 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i5ve { display: block; left: 29px; top: 364px; position: absolute; width: 150px; height: 48px; --ch5-text--font-color: #fbf5f5; Label_color: #fbf5f5; z-index: 8 } #i5ve .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i5ve .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #icz5 { display: block; left: 585px; top: 79px; position: absolute; width: 150px; height: 48px; --ch5-text--font-color: #fbf5f5; Label_color: #fbf5f5; z-index: 9 } #icz5 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #icz5 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #i4gi { display: block; left: 227px; top: 370px; position: absolute; width: 319px; height: 41px; --ch5-text--width: 319px; --ch5-text--height: 41px; --ch5-text--background-color: rgba(248,245,245,0.96); Appearance_background-color: rgba(248,245,245,0.96); z-index: 10 } #i4gi .ch5-text :not(i):not(svg) { font-family: "Roboto" } #i4gi .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #ik74 { display: block; left: 216px; top: 81px; position: absolute; width: 319px; height: 41px; --ch5-text--width: 319px; --ch5-text--height: 41px; --ch5-text--background-color: rgba(248,245,245,0.96); Appearance_background-color: rgba(248,245,245,0.96); z-index: 11 } #ik74 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #ik74 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } #icy4 { display: block; left: 743px; top: 83px; position: absolute; width: 319px; height: 41px; --ch5-text--width: 319px; --ch5-text--height: 41px; --ch5-text--background-color: rgba(248,245,245,0.96); Appearance_background-color: rgba(248,245,245,0.96); z-index: 12 } #icy4 .ch5-text :not(i):not(svg) { font-family: "Roboto" } #icy4 .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } }
+@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px) { #i1hci3ii9g { width: 1100px; height: 590px; left: 0; top: 0; position: absolute } #it5x { display: block; left: 335px; top: 290px; position: absolute; width: 435px; height: 63px; --ch5-text--width: 435px; --ch5-text--height: 63px; Label_color: #fdfafa; --ch5-text--font-color: #fdfafa; Label_font-size: 30px; --ch5-text--font-size: 30px } #izje { display: block; left: 76px; top: 167px; position: absolute; width: 923px; height: 105px; --ch5-text--width: 923px; --ch5-text--height: 105px; Label_color: #fbf6f6; --ch5-text--font-color: #fbf6f6; Label_font-size: 25px; --ch5-text--font-size: 25px } #itbj { left: 322px; top: 2px; position: absolute; width: 435px; height: 63px } #it7k { display: block; background-color: rgba(106,109,113,0.43); border-style: solid; border-width: 0; border-color: #1B4B7C; width: 1071px; height: 220px; left: 10px; top: 63px; position: absolute } #idoy { left: 12px; top: 348px; position: absolute; width: 1071px; height: 220px } #ig6m { display: block; background-color: rgba(101,112,121,0.53); border-style: solid; border-width: 0; border-color: #1B4B7C; width: 1064px; height: 88px; left: 14px; top: 67px; position: absolute } #ix26 { display: block; left: 50px; top: 79px; position: absolute; width: 150px; height: 48px; Label_color: #fbf5f5; --ch5-text--font-color: #fbf5f5 } #i5ve { left: 29px; top: 364px; position: absolute; width: 150px; height: 48px } #icz5 { left: 585px; top: 79px; position: absolute; width: 150px; height: 48px } #i4gi { display: block; left: 227px; top: 370px; position: absolute; width: 319px; height: 41px; --ch5-text--width: 319px; --ch5-text--height: 41px; Appearance_background-color: rgba(248,245,245,0.96); --ch5-text--background-color: rgba(248,245,245,0.96) } #ik74 { left: 216px; top: 81px; position: absolute; width: 319px; height: 41px } #icy4 { left: 743px; top: 83px; position: absolute; width: 319px; height: 41px } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "usb"
+PageMode = "absolute"
+Id = "3096aa07-996e-4afb-b273-c4d7371c5068"
+DisplayBackgroundColor = "True"
+BackgroundColor = "#6663633a"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "true"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "icy4"
+componentName = "Formatted-Text_8"
+ccid_ActiveFont = "'Roboto'"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iwp2w"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "true"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ik74"
+componentName = "Formatted-Text_7"
+ccid_ActiveFont = "'Roboto'"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iwp2w"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "true"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i4gi"
+componentName = "Formatted-Text_6"
+ccid_ActiveFont = "'Roboto'"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "icz5"
+componentName = "Formatted-Text_5"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Rm- Local/ Remote"
+labelinnerhtml = "Rm- Local/ Remote"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "it9a3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i5ve"
+componentName = "Formatted-Text_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Rm- Local/ Remote"
+labelinnerhtml = "Rm- Local/ Remote"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "it9a3"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ix26"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Rm- Local/ Remote"
+labelinnerhtml = "Rm- Local/ Remote"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_2"
+id = "ig6m"
+devicesVisited = "[\"TSW-1070\"]"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "izje"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = ""
+ccid_Label = "<p>Note: This information is being pulled from the NVX editing Local MAC is disabled.</p>"
+labelinnerhtml = "<p>Note: This information is being pulled from the NVX editing Local MAC is disabled.</p>"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div_1"
+id = "idoy"
+devicesVisited = "[\"TSW-1070\"]"
+oldID = "i3xn"
+[[Elements.Components]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Components.Attributes]
+componentName = "Html-div"
+id = "it7k"
+devicesVisited = "[\"TSW-1070\"]"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "itbj"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "USB Remote - Mac Addresses"
+labelinnerhtml = "USB Remote - Mac Addresses"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+oldID = "iyvi"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "it5x"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "USB Local - Mac Addresses"
+labelinnerhtml = "USB Local - Mac Addresses"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "i1hci3ii9g"
+devicesVisited = "[\"TSW-1070\"]"
+defaultWidth = "1100px"
+defaultHeight = "590px"
+

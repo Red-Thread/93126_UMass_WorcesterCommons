@@ -1,0 +1,284 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-18 11:56:23.975414-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-18 11:56:23.975413-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="idip" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Touch here to begin" labelinnerhtml="Touch here to begin" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="pressed" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="syncEnabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="ih52" componentname="Welcome_button" ccid_activefont="'Roboto'" pageflip="0" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" ccid_sync_normal_appearancesector_background-color="syncDisabled" ccid_sync_normal_appearancesector_background-color_toggle="0" ccid_sync_pressed_appearancesector_background-color="syncDisabled" ccid_sync_pressed_appearancesector_background-color_toggle="0" ccid_sync_selected_appearancesector_background-color="syncDisabled" ccid_sync_selected_appearancesector_background-color_toggle="0" ccid_sync_normal_appearancesector_border-color="syncEnabled" ccid_sync_pressed_appearancesector_border-color="syncEnabled" ccid_sync_selected_appearancesector_border-color="syncEnabled" ccid_sync_normal_appearancesector_border-width="syncEnabled" ccid_sync_pressed_appearancesector_border-width="syncEnabled" ccid_sync_selected_appearancesector_border-width="syncEnabled" ccid_sync_normal_appearancesector_border-style="syncEnabled" ccid_sync_pressed_appearancesector_border-style="syncEnabled" ccid_sync_selected_appearancesector_border-style="syncEnabled" ccid_sync_normal_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-left-radius="syncEnabled" ccid_sync_normal_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-top-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-right-radius="syncEnabled" ccid_sync_normal_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_pressed_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_selected_appearancesector_border-bottom-left-radius="syncEnabled" ccid_sync_normal_labelsector_color="syncEnabled" ccid_sync_pressed_labelsector_color="syncEnabled" ccid_sync_selected_labelsector_color="syncEnabled" ccid_sync_normal_labelsector_font-size="syncEnabled" ccid_sync_pressed_labelsector_font-size="syncEnabled" ccid_sync_selected_labelsector_font-size="syncEnabled" ccid_sync_normal_labelsector_font-weight="syncEnabled" ccid_sync_pressed_labelsector_font-weight="syncEnabled" ccid_sync_selected_labelsector_font-weight="syncEnabled" ccid_sync_normal_labelsector_text-decoration="syncEnabled" ccid_sync_pressed_labelsector_text-decoration="syncEnabled" ccid_sync_selected_labelsector_text-decoration="syncEnabled" ccid_sync_normal_labelsector_letter-spacing="syncEnabled" ccid_sync_pressed_labelsector_letter-spacing="syncEnabled" ccid_sync_selected_labelsector_letter-spacing="syncEnabled" ccid_sync_normal_labelsector_margin-left="syncEnabled" ccid_sync_pressed_labelsector_margin-left="syncEnabled" ccid_sync_selected_labelsector_margin-left="syncEnabled" ccid_sync_normal_labelsector_margin-top="syncEnabled" ccid_sync_pressed_labelsector_margin-top="syncEnabled" ccid_sync_selected_labelsector_margin-top="syncEnabled" ccid_sync_normal_iconsector_color="syncEnabled" ccid_sync_pressed_iconsector_color="syncEnabled" ccid_sync_selected_iconsector_color="syncEnabled" ccid_sync_normal_iconsector_font-size="syncEnabled" ccid_sync_pressed_iconsector_font-size="syncEnabled" ccid_sync_selected_iconsector_font-size="syncEnabled" ccid_sync_normal_iconsector_margin-left="syncEnabled" ccid_sync_pressed_iconsector_margin-left="syncEnabled" ccid_sync_selected_iconsector_margin-left="syncEnabled" ccid_sync_normal_iconsector_margin-top="syncEnabled" ccid_sync_pressed_iconsector_margin-top="syncEnabled" ccid_sync_selected_iconsector_margin-top="syncEnabled" ccid_sync_normal_appearancesector_border-color_toggle="1" ccid_sync_normal_appearancesector_border-width_toggle="1" ccid_sync_normal_appearancesector_border-style_toggle="1" ccid_sync_normal_appearancesector_border-top-left-radius_toggle="1" ccid_sync_normal_appearancesector_border-top-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle="1" ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle="1" ccid_sync_normal_labelsector_color_toggle="1" ccid_sync_normal_labelsector_font-size_toggle="1" ccid_sync_normal_labelsector_font-weight_toggle="1" ccid_sync_normal_labelsector_text-decoration_toggle="1" ccid_sync_normal_labelsector_letter-spacing_toggle="1" ccid_sync_normal_labelsector_margin-left_toggle="1" ccid_sync_normal_labelsector_margin-top_toggle="1" ccid_sync_normal_iconsector_color_toggle="1" ccid_sync_normal_iconsector_font-size_toggle="1" ccid_sync_normal_iconsector_margin-left_toggle="1" ccid_sync_normal_iconsector_margin-top_toggle="1" ccid_customsizeset="true" sendeventonshow="202" ccid_label="" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" pressed="true" ccid_sync_pressed_appearancesector_border-color_toggle="1" ccid_sync_pressed_appearancesector_border-width_toggle="1" ccid_sync_pressed_appearancesector_border-style_toggle="1" ccid_sync_pressed_appearancesector_border-top-left-radius_toggle="1" ccid_sync_pressed_appearancesector_border-top-right-radius_toggle="1" ccid_sync_pressed_appearancesector_border-bottom-right-radius_toggle="1" ccid_sync_pressed_appearancesector_border-bottom-left-radius_toggle="1" ccid_sync_pressed_labelsector_color_toggle="1" ccid_sync_pressed_labelsector_font-size_toggle="1" ccid_sync_pressed_labelsector_font-weight_toggle="1" ccid_sync_pressed_labelsector_text-decoration_toggle="1" ccid_sync_pressed_labelsector_letter-spacing_toggle="1" ccid_sync_pressed_labelsector_margin-left_toggle="1" ccid_sync_pressed_labelsector_margin-top_toggle="1" ccid_sync_pressed_iconsector_color_toggle="1" ccid_sync_pressed_iconsector_font-size_toggle="1" ccid_sync_pressed_iconsector_margin-left_toggle="1" ccid_sync_pressed_iconsector_margin-top_toggle="1" assetid="0">
+              </ch5-button><ch5-image numberofmodes="0" customvstheme="custom" refreshrate="0" allowpositiondatatobesent="false" allowvaluesonmove="false" assetid="bcecf823-b9e2-4434-b31e-40c38870b5f4" id="iujf" componentname="Image" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]">
+              </ch5-image><html-div componentname="Html-div_1" id="i6qy" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]" oldid="iknc"></html-div><html-div componentname="Html-div" id="iknc" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]"></html-div>
+
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" backgroundcolor="#ffffff" id="idfw" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;DGE-1000: 3840x2160&quot;]">
+              </ch5-background>
+
+
+
+{Css}
+@media (max-width: 99999px) { #ih52 { display: block; left: 0px; top: 0; position: absolute; width: 3834px; height: 2151px; --ch5-button--regular-width: 3834px; --ch5-button--regular-height: 2151px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-background-color: rgba(0,153,255,0); Appearance_background-color: rgba(0,153,255,0); --ch5-button--default-border-width: 0; Appearance_border-width: 0; --ch5-button--default-pressed-border-width: 0; pressedAppearance_border-width: 0; --ch5-button--default-selected-border-width: 0; selectedAppearance_border-width: 0; --ch5-button--default-pressed-background-color: rgba(0,138,230,0); pressedAppearance_background-color: rgba(0,138,230,0); --ch5-button--default-pressed-border-color: rgba(0,145,234,0); pressedAppearance_border-color: rgba(0,145,234,0); --ch5-button--default-border-color: rgba(0,145,234,0); Appearance_border-color: rgba(0,145,234,0); --ch5-button--default-selected-border-color: rgba(0,145,234,0); selectedAppearance_border-color: rgba(0,145,234,0); z-index: 4 } #ih52 .ch5-button :not(i):not(svg) { font-family: "Roboto" } #idfw { width: 100%; height: 100%; overflow: hidden; position: absolute; display: block; left: 0; top: 0; z-index: -98 } #iknc { display: block; background-color: #88d0d4; border-style: solid; border-width: 5px; border-color: #88d0d4; width: 3836px; height: 100px; left: 0; top: 0; position: absolute; z-index: 1 } #i6qy { display: block; background-color: #88d0d4; border-style: solid; border-width: 5px; border-color: #88d0d4; width: 3836px; height: 100px; left: 0px; top: 2055px; position: absolute; z-index: 2 } #iujf { width: 3840px; height: 1968px; overflow: hidden; display: block; left: 0; top: 0; position: absolute; z-index: 3 } #wrapper { background-color: #ffffff } #idip { display: block; left: 1395px; top: 1426px; position: absolute; width: 1050px; height: 229px; --ch5-text--width: 1050px; --ch5-text--height: 229px; --ch5-text--font-size: 90px; Label_font-size: 90px; custom-normal-font-size: 90px; --ch5-text--font-color: #2c44a0; Label_color: #2c44a0; z-index: 5 } #idip .ch5-text :not(i):not(svg) { font-family: "Roboto" } #idip .ch5-text { min-height: 10px; min-width: 10px; padding: 0px } }
+@media (orientation: landscape) and (max-width: 3841px) and (max-height: 2161px), (orientation: landscape) and (max-width: 3839px) { #ih52 { width: 3834px; height: 2151px; --ch5-button--regular-height: 2151px; --ch5-button--regular-width: 3834px } #idfw { width: 100%; height: 100%; overflow: hidden; position: absolute; display: block; left: 0; top: 0 } #iknc { display: block; background-color: #88d0d4; border-style: solid; border-width: 5px; border-color: #88d0d4; width: 3836px; height: 100px; left: 0; top: 0; position: absolute } #i6qy { display: block; background-color: #88d0d4; border-style: solid; border-width: 5px; border-color: #88d0d4; width: 3836px; height: 100px; left: 0px; top: 2055px; position: absolute } #iujf { width: 3839px; height: 1968px; overflow: hidden; display: block; left: 0; top: 91px; position: absolute } #idip { display: block; left: 1395px; top: 1426px; position: absolute; width: 1050px; height: 229px; --ch5-text--width: 1050px; --ch5-text--height: 229px; Label_font-size: 90px; --ch5-text--font-size: 90px; Label_color: #2c44a0; --ch5-text--font-color: #2c44a0 } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "welcome page"
+PageMode = "absolute"
+Id = "ae0f53d5-dd1d-46e6-b52d-a898961e77d0"
+StartPage = "True"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "VisibilityJoin"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "idip"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Touch here to begin"
+labelinnerhtml = "Touch here to begin"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "pressed"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "syncEnabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "ih52"
+componentName = "Welcome_button"
+ccid_ActiveFont = "'Roboto'"
+pageflip = "0"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+ccid_sync_normal_appearancesector_background-color = "syncDisabled"
+ccid_sync_normal_appearancesector_background-color_toggle = "0"
+ccid_sync_pressed_appearancesector_background-color = "syncDisabled"
+ccid_sync_pressed_appearancesector_background-color_toggle = "0"
+ccid_sync_selected_appearancesector_background-color = "syncDisabled"
+ccid_sync_selected_appearancesector_background-color_toggle = "0"
+ccid_sync_normal_appearancesector_border-color = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-color = "syncEnabled"
+ccid_sync_selected_appearancesector_border-color = "syncEnabled"
+ccid_sync_normal_appearancesector_border-width = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-width = "syncEnabled"
+ccid_sync_selected_appearancesector_border-width = "syncEnabled"
+ccid_sync_normal_appearancesector_border-style = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-style = "syncEnabled"
+ccid_sync_selected_appearancesector_border-style = "syncEnabled"
+ccid_sync_normal_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-top-left-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-top-right-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-bottom-right-radius = "syncEnabled"
+ccid_sync_normal_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_pressed_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_selected_appearancesector_border-bottom-left-radius = "syncEnabled"
+ccid_sync_normal_labelsector_color = "syncEnabled"
+ccid_sync_pressed_labelsector_color = "syncEnabled"
+ccid_sync_selected_labelsector_color = "syncEnabled"
+ccid_sync_normal_labelsector_font-size = "syncEnabled"
+ccid_sync_pressed_labelsector_font-size = "syncEnabled"
+ccid_sync_selected_labelsector_font-size = "syncEnabled"
+ccid_sync_normal_labelsector_font-weight = "syncEnabled"
+ccid_sync_pressed_labelsector_font-weight = "syncEnabled"
+ccid_sync_selected_labelsector_font-weight = "syncEnabled"
+ccid_sync_normal_labelsector_text-decoration = "syncEnabled"
+ccid_sync_pressed_labelsector_text-decoration = "syncEnabled"
+ccid_sync_selected_labelsector_text-decoration = "syncEnabled"
+ccid_sync_normal_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_pressed_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_selected_labelsector_letter-spacing = "syncEnabled"
+ccid_sync_normal_labelsector_margin-left = "syncEnabled"
+ccid_sync_pressed_labelsector_margin-left = "syncEnabled"
+ccid_sync_selected_labelsector_margin-left = "syncEnabled"
+ccid_sync_normal_labelsector_margin-top = "syncEnabled"
+ccid_sync_pressed_labelsector_margin-top = "syncEnabled"
+ccid_sync_selected_labelsector_margin-top = "syncEnabled"
+ccid_sync_normal_iconsector_color = "syncEnabled"
+ccid_sync_pressed_iconsector_color = "syncEnabled"
+ccid_sync_selected_iconsector_color = "syncEnabled"
+ccid_sync_normal_iconsector_font-size = "syncEnabled"
+ccid_sync_pressed_iconsector_font-size = "syncEnabled"
+ccid_sync_selected_iconsector_font-size = "syncEnabled"
+ccid_sync_normal_iconsector_margin-left = "syncEnabled"
+ccid_sync_pressed_iconsector_margin-left = "syncEnabled"
+ccid_sync_selected_iconsector_margin-left = "syncEnabled"
+ccid_sync_normal_iconsector_margin-top = "syncEnabled"
+ccid_sync_pressed_iconsector_margin-top = "syncEnabled"
+ccid_sync_selected_iconsector_margin-top = "syncEnabled"
+ccid_sync_normal_appearancesector_border-color_toggle = "1"
+ccid_sync_normal_appearancesector_border-width_toggle = "1"
+ccid_sync_normal_appearancesector_border-style_toggle = "1"
+ccid_sync_normal_appearancesector_border-top-left-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-top-right-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-bottom-right-radius_toggle = "1"
+ccid_sync_normal_appearancesector_border-bottom-left-radius_toggle = "1"
+ccid_sync_normal_labelsector_color_toggle = "1"
+ccid_sync_normal_labelsector_font-size_toggle = "1"
+ccid_sync_normal_labelsector_font-weight_toggle = "1"
+ccid_sync_normal_labelsector_text-decoration_toggle = "1"
+ccid_sync_normal_labelsector_letter-spacing_toggle = "1"
+ccid_sync_normal_labelsector_margin-left_toggle = "1"
+ccid_sync_normal_labelsector_margin-top_toggle = "1"
+ccid_sync_normal_iconsector_color_toggle = "1"
+ccid_sync_normal_iconsector_font-size_toggle = "1"
+ccid_sync_normal_iconsector_margin-left_toggle = "1"
+ccid_sync_normal_iconsector_margin-top_toggle = "1"
+ccid_customSizeSet = "true"
+sendeventonshow = "202"
+ccid_Label = ""
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+pressed = "true"
+ccid_sync_pressed_appearancesector_border-color_toggle = "1"
+ccid_sync_pressed_appearancesector_border-width_toggle = "1"
+ccid_sync_pressed_appearancesector_border-style_toggle = "1"
+ccid_sync_pressed_appearancesector_border-top-left-radius_toggle = "1"
+ccid_sync_pressed_appearancesector_border-top-right-radius_toggle = "1"
+ccid_sync_pressed_appearancesector_border-bottom-right-radius_toggle = "1"
+ccid_sync_pressed_appearancesector_border-bottom-left-radius_toggle = "1"
+ccid_sync_pressed_labelsector_color_toggle = "1"
+ccid_sync_pressed_labelsector_font-size_toggle = "1"
+ccid_sync_pressed_labelsector_font-weight_toggle = "1"
+ccid_sync_pressed_labelsector_text-decoration_toggle = "1"
+ccid_sync_pressed_labelsector_letter-spacing_toggle = "1"
+ccid_sync_pressed_labelsector_margin-left_toggle = "1"
+ccid_sync_pressed_labelsector_margin-top_toggle = "1"
+ccid_sync_pressed_iconsector_color_toggle = "1"
+ccid_sync_pressed_iconsector_font-size_toggle = "1"
+ccid_sync_pressed_iconsector_margin-left_toggle = "1"
+ccid_sync_pressed_iconsector_margin-top_toggle = "1"
+assetid = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+numberofmodes = "0"
+customvstheme = "custom"
+refreshrate = "0"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+assetid = "bcecf823-b9e2-4434-b31e-40c38870b5f4"
+id = "iujf"
+componentName = "Image"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+[[Elements]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+componentName = "Html-div_1"
+id = "i6qy"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+oldID = "iu8l"
+[[Elements]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+componentName = "Html-div"
+id = "iknc"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+backgroundcolor = "#ffffff"
+id = "idfw"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"DGE-1000: 3840x2160\"]"
+
